@@ -1,26 +1,201 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-night: #0d1a31;
+  --color-blue: #1f4aa0;
+  --color-blue-deep: #163a82;
+  --color-amber: #e9a23b;
+  --color-amber-soft: #f4c983;
+  --color-pennant: #5d6772;
+  --color-limewash: #eef0ec;
+  --color-ink: #16202c;
+
+  --font-sans: var(--font-archivo);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+}
+
+/* Slide-in animations start partly off-screen; clip (unlike hidden) stops a sideways scrollbar
+   without breaking the sticky header */
+html,
+body {
+  overflow-x: clip;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #fff;
+  color: var(--color-ink);
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-variation-settings: "wdth" 100;
+}
+
+/* Display type: heavy, extended and slanted, like the logo lettering */
+.display {
+  font-style: italic;
+  font-variation-settings: "wdth" 125;
+  font-weight: 900;
+  letter-spacing: -0.025em;
+  line-height: 0.95;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+.wide {
+  font-variation-settings: "wdth" 115;
+}
+
+/* Outlined numerals for the project count */
+.outline-num {
+  color: transparent;
+  -webkit-text-stroke: 2px var(--color-amber);
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-amber);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* Scroll reveals (see components/Reveal.tsx).
+   html.js is set before first paint, so content waits hidden instead of flashing.
+   Without JS nothing is hidden. */
+.js [data-reveal]:not(.is-in) {
+  opacity: 0;
+}
+[data-reveal] {
+  transition:
+    opacity 0.9s cubic-bezier(0.2, 0.7, 0.2, 1),
+    transform 1s cubic-bezier(0.2, 0.7, 0.2, 1),
+    clip-path 1.3s cubic-bezier(0.7, 0, 0.2, 1);
+  transition-delay: var(--reveal-delay, 0ms);
+}
+.js [data-reveal="up"]:not(.is-in) {
+  transform: translateY(3rem);
+}
+.js [data-reveal="left"]:not(.is-in) {
+  transform: translateX(-3rem);
+}
+.js [data-reveal="right"]:not(.is-in) {
+  transform: translateX(3rem);
+}
+.js [data-reveal="scale"]:not(.is-in) {
+  transform: scale(0.9);
+}
+/* Photos are "built" from the ground up, while the picture settles from a slight zoom */
+.js [data-reveal="clip"]:not(.is-in) {
+  opacity: 1;
+  clip-path: inset(100% 0 0 0);
+}
+[data-reveal="clip"] {
+  clip-path: inset(0 0 0 0);
+}
+[data-reveal="clip"] img {
+  transition:
+    transform 1.8s cubic-bezier(0.2, 0.7, 0.2, 1) var(--reveal-delay, 0ms),
+    scale 0.7s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.js [data-reveal="clip"]:not(.is-in) img {
+  transform: scale(1.2);
+}
+/* Safety net: if the page script never runs, show everything after a moment */
+@keyframes rv-show {
+  to {
+    opacity: 1;
+    transform: none;
+    clip-path: inset(0 0 0 0);
+  }
+}
+.js [data-reveal]:not(.rv-armed) {
+  animation: rv-show 0.6s ease 2.5s forwards;
+}
+
+/* Each page fades and lifts in when it opens (app/template.tsx).
+   "backwards" fill: once finished no transform is left behind, so fixed/sticky children keep working. */
+@keyframes page-in {
+  from {
+    opacity: 0;
+    transform: translateY(1.5rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.page-in {
+  animation: page-in 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) backwards;
+}
+
+/* Mobile menu drops in, links follow one after another */
+@keyframes menu-in {
+  from {
+    opacity: 0;
+    transform: translateY(-0.75rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.menu-in {
+  animation: menu-in 0.35s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+/* The guarantee seal turns slowly */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.seal-ring {
+  animation: spin 28s linear infinite;
+  transform-origin: 50% 50%;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(1.5rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.rise {
+  animation: rise 0.9s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+/* Reduced motion (also what Windows sends when "Animation effects" is off):
+   nothing slides, zooms or spins, but content still fades in gently. */
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .seal-ring {
+    animation: none;
+  }
+  .rise,
+  .menu-in,
+  .page-in {
+    animation-name: fade;
+  }
+  .js [data-reveal]:not(.is-in),
+  .js [data-reveal]:not(.is-in) img {
+    transform: none;
+    clip-path: none;
+  }
+  .js [data-reveal="clip"]:not(.is-in) {
+    opacity: 0;
+  }
+  [data-reveal],
+  [data-reveal] img {
+    transition: opacity 0.9s ease var(--reveal-delay, 0ms);
+  }
 }

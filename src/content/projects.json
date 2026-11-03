@@ -1,0 +1,3639 @@
+{
+  "portfolio": [
+    {
+      "name": "Project Friary",
+      "slug": "winterbourne-landscapers",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/j-r-5-finished-day006-AGBoNZrxB6fJ1GEJ.jpg"
+    },
+    {
+      "name": "Project Hazel",
+      "slug": "project-hazel",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/5a-hazelgrove-edits-6-YrD3Xo2k9gSj6OlD.jpg"
+    },
+    {
+      "name": "Project Dodd",
+      "slug": "project-dodd",
+      "image": null
+    },
+    {
+      "name": "Project Jubilee",
+      "slug": "project-jubilee-builders-yate-bristol",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-32-dJol5xM625F4wkgQ.jpg"
+    },
+    {
+      "name": "Project Cherry",
+      "slug": "project-cherry-build-it-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-south-west-england-ALpopLKVZJsXkMnq.jpg"
+    },
+    {
+      "name": "Project Coney",
+      "slug": "project-coney-builders-in-yate-bristol",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-m6LJLxDRr2ijPWEp.jpg"
+    },
+    {
+      "name": "Project Chestnut",
+      "slug": "project-chestnut-yate-council",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mk393nrkKlhkNbZ2.jpg"
+    },
+    {
+      "name": "Project Sunbeam",
+      "slug": "project-sunbeam-best-composite-front-doors-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mv0709WJgxUQ427l.jpg"
+    },
+    {
+      "name": "Project St David's Ave",
+      "slug": "project-st-davids-avenue-yate-roofing",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YX4b4GEePgt1xQKj.jpg"
+    },
+    {
+      "name": "Project Kingsway",
+      "slug": "project-kingsway-roofers-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mP4Q4eEBvOHR0jBp.jpg"
+    },
+    {
+      "name": "Project Clayton",
+      "slug": "project-clayton-laminate-flooring-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-with-hot-tub-in-bristol-and-south-west-england-mePnP3K8X5u4PqED.jpg"
+    },
+    {
+      "name": "Project DAWG",
+      "slug": "project-dawg-gardening-firms-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-dOq4q6JB2yilK2o8.jpg"
+    },
+    {
+      "name": "Project Dell",
+      "slug": "project-dell-yate-new-builds",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-10-YNqDPzM4M4so3VQE.jpg"
+    },
+    {
+      "name": "Project Gauge",
+      "slug": "project-gauge-landscape-gardeners-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-11_1-AQE3D6w5r2FjKqDx.jpg"
+    },
+    {
+      "name": "Project Bluebell",
+      "slug": "project-bluebell-yates-landscaping",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-20-03_1-AVLP1OK2wXiqB1Xv.jpg"
+    },
+    {
+      "name": "Project Willow",
+      "slug": "landscaping-and-patio-work-in-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-46-56-YD0rvg03Dru28jMj.jpg"
+    },
+    {
+      "name": "Project Kesteral",
+      "slug": "project-kestral-yate-building-contractors",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00010-YBgEy1rMX6IlDK12.jpeg"
+    },
+    {
+      "name": "Project Gunn",
+      "slug": "project-gunn-yate-builder",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-33_1-dWxn09g5vJHRXo5Y.jpg"
+    },
+    {
+      "name": "Project Paddock",
+      "slug": "project-paddock-yates-builders",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m2WWerj2ZwFEXeZl.jpg"
+    },
+    {
+      "name": "Project Rock",
+      "slug": "project-rock-lawn-care-services-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-d955nVaMv7u4z2Xa.jpg"
+    },
+    {
+      "name": "Project Olympus",
+      "slug": "project-olympus-new-homes-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mjEy9xzJqacpKX8k.jpg"
+    },
+    {
+      "name": "Project Tandy",
+      "slug": "project-tandy-gardeners-yate-uk",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YrDDGVoZZbhz5n5n.JPG"
+    },
+    {
+      "name": "Project Coriander",
+      "slug": "project-coriander-house-builders-in-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AMqqgopNyOUkXXJE.jpg"
+    },
+    {
+      "name": "Project Brookfield",
+      "slug": "project-brookfield-builders-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m7VVX09qyaF4jerB.jpg"
+    },
+    {
+      "name": "Project Alexadra",
+      "slug": "project-alexandra-yate-garden-designers",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mP44r8P5eKsv9KrN.jpg"
+    },
+    {
+      "name": "Project Kelbra",
+      "slug": "project-kelbra-yate-builders",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AR00gDyyoPs04E15.jpg"
+    },
+    {
+      "name": "Project Bourne",
+      "slug": "project-bourne-garden-maintenance-companies-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YrDDGMVNvpCPj2lZ.jpg"
+    },
+    {
+      "name": "Project Glen",
+      "slug": "project-glen-homes-in-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mk33KB109lT10g3v.jpg"
+    },
+    {
+      "name": "Project Kites",
+      "slug": "project-kites-gardening-services-in-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m2WWXxv6zyI7MQor.jpg"
+    },
+    {
+      "name": "Project Beard",
+      "slug": "project-beard-yate-garden-maintenance",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/porcelainlandscapecwmbranbefore-A3QNJ4nzpqSrZOG1.jpg"
+    },
+    {
+      "name": "Project Fennel",
+      "slug": "project-fennel-gardening-maintenance-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A3QnJ8wNRlTr28V2.jpg"
+    },
+    {
+      "name": "Project Williams",
+      "slug": "project-williams-garden-design-consultant-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-d95egoN7loFzV1VO.jpg"
+    },
+    {
+      "name": "Project Bowden",
+      "slug": "project-bowden-house-builders-in-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mnlN9ygZrvI1WWvW.jpg"
+    },
+    {
+      "name": "Project Hennson",
+      "slug": "project-henson-yate-garden-design",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m6Lkvq7l6eTwkzK4.jpg"
+    },
+    {
+      "name": "Project Rae",
+      "slug": "project-rae-walled-garden-maintenance-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A3QQVLrEkpFlLvqM.jpg"
+    },
+    {
+      "name": "Project Russel",
+      "slug": "project-russell-yate-gardening-services",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqqgOye3bTn5zlZ.jpg"
+    },
+    {
+      "name": "Project Butler",
+      "slug": "a-beautiful-extension-in-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqxM8vlEEuj7gOM.jpg"
+    },
+    {
+      "name": "Project Oakes",
+      "slug": "homes-in-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mxBQz8NN0KhN3q6o.jpg"
+    },
+    {
+      "name": "Project Elmore",
+      "slug": "project-elmore-garden-consultation-yate",
+      "image": null
+    },
+    {
+      "name": "Project Falcon",
+      "slug": "project-falcon-garden-upkeep-yate",
+      "image": null
+    },
+    {
+      "name": "Project St John",
+      "slug": "project-st-john-composite-front-doors-yate",
+      "image": null
+    },
+    {
+      "name": "Project Worthing",
+      "slug": "project-worthing-yate-garages",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AGB9MQMj6wtDbn32.jpg"
+    },
+    {
+      "name": "Project Shepherd",
+      "slug": "project-shepherd-garden-consultancy-yate",
+      "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/before-mePB5KrOrxHoBV5E.jpg"
+    }
+  ],
+  "pages": {
+    "winterbourne-landscapers": {
+      "title": "Winterbourne Landscapers Produced A* Garden Design | Scott Brothers Yate Builders",
+      "description": "Winterbourne Landscapers Produced A* Garden Design - Award Winning Landscape Designer in Bristol, known for building the most talked about gardens in the city.",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/j-r-5-finished-day006-AGBoNZrxB6fJ1GEJ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/design-space-garden-AQEvG4E2KNTnVZXq.jpg"
+        },
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Friary"
+        },
+        {
+          "type": "p",
+          "text": "Located in the heart of Winterbourne, Bristol, this sensational contemporary garden has been brought back to life."
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Your Landscapers In Bristol"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Garden Room"
+        },
+        {
+          "type": "p",
+          "text": "The garden room was the main focus for our clients here. Working from the dining table amidst everyday family life was becoming increasingly difficult."
+        },
+        {
+          "type": "p",
+          "text": "Our clients wanted a space where they could work, entertain, and relax all in one place."
+        },
+        {
+          "type": "p",
+          "text": "As a young family, they wanted a contemporary and classy vibe, which was also practical and easy to maintain."
+        },
+        {
+          "type": "p",
+          "text": "And WOW, the finished project has exceeded even our own expectations."
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The Brief"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/97fgp.png1-A85qRn9Nw8sazvgR.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/97fgp.png3-1-YD0n6KB98BFLZxBg.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/97-friary-grange-park_scene-6-YNqV8xyE87cR3oOM.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/97fgp-1-m2W5p0pxJ0UNo1Ev.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/97fgp.png2-m5KpR68OJvFxpzxa.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/friary-grange-park-scene-36-AGBoNZ61r2H6OXEq.png"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Designing The Garden Room In Winterbourne"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The all in one Landscaping company Bristol"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Scott brother's can take your vision and create a perfect picture that even you fully understand from the get-go."
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Putting forward a comprehensive design for your garden is why we have been recognised as the best landscapers in Yate and further afield in Bristol."
+        },
+        {
+          "type": "p",
+          "text": "OUR STORY"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Scott Brother's Build In Progress"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "The Garden"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Your Trusted Bristol Gardeners"
+        },
+        {
+          "type": "p",
+          "text": "We sourced the most stunning ‘A Grade’ Western Red Cedar cladding for the face of the garden room."
+        },
+        {
+          "type": "p",
+          "text": "Although this material does add significant extra costs,"
+        },
+        {
+          "type": "p",
+          "text": "we think that the result is simply jaw-dropping –and worth every penny!"
+        },
+        {
+          "type": "p",
+          "text": "The beautiful long grains and varying tones throughout this natural product are mesmerising, especially at night when the feature spotlights showcase its myriad charms."
+        },
+        {
+          "type": "p",
+          "text": "The remaining sides and front-edging panels were painted with top-quality ‘ProTek Ebony’ wood satin to give the space a modern, cultivated look."
+        },
+        {
+          "type": "p",
+          "text": "Internally, we installed a bespoke workstation and bar, incorporating seamless floating shelves throughout. The room was painted bright white and finished with super hard-wearing LVT flooring."
+        },
+        {
+          "type": "p",
+          "text": "We laid smooth, sawn and honed Indian sandstone in the garden to provide a sleek, clean-cut finish. This increasingly popular stone connects all of the zones and really brings the garden together."
+        },
+        {
+          "type": "p",
+          "text": "Locally sourced pots and a raised planter bed feature were stocked with mature trees, perennials, creepers and grasses to provide dynamic and varying colour throughout the year."
+        },
+        {
+          "type": "p",
+          "text": "The beautiful concrete decorations and amazingly detailed Buddha were also added to bring variation and focal features."
+        },
+        {
+          "type": "p",
+          "text": "This project truly was a pleasure to work on from start to finish, and we are extremely proud of it."
+        },
+        {
+          "type": "p",
+          "text": "Other Services we can help you out with: Extensions, Bathroom Install, Kitchen Install"
+        },
+        {
+          "type": "h",
+          "level": 6,
+          "text": "'WOW, still can’t believe the garden/garden room is ours!\nScott Brothers took some limited ideas we had and turned them into a design I thought I could only dream of. They then turned that design into a reality and it’s just incredible. We love our new garden and garden room, it’s amazing. Thank you so so much.'"
+        },
+        {
+          "type": "p",
+          "text": "Mr & Mrs L - Friary Grange"
+        },
+        {
+          "type": "link",
+          "text": "Click here to speak with the team!",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-hazel": {
+      "title": "Project Hazel - Quality Landscape Design Yate | Scott Brothers Yate Builders",
+      "description": "Project Hazel - Quality Landscape Design Yate - Pondering on the idea of a new garden transformation?, Check out this recent project we completed in Yate using our skilled team",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/5a-hazelgrove-edits-6-YrD3Xo2k9gSj6OlD.jpg"
+        },
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Hazel - Dream Gardens Made In The UK!"
+        },
+        {
+          "type": "p",
+          "text": "Every aspect of this project was an absolute pleasure to create."
+        },
+        {
+          "type": "p",
+          "text": "The many different areas and variety of materials pull this space together and create a place for the whole family to entertain and enjoy."
+        },
+        {
+          "type": "p",
+          "text": "We installed new fencing all around, made a retaining wall and incorporated a zen garden with a water feature."
+        },
+        {
+          "type": "p",
+          "text": "The Bespoke Bar & pergola create further entertaining areas, all finished with the beautiful Kandla Grey Sawn & Honed slabs and the gorgeous fluffy Luxigraze artificial grass."
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The Best Gardeners!"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Looking for a Gardening Service?"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Scott brothers have been serving the local area for decades, with a driving passion for creating spaces we are proud to show off, but something you also fall in love with!"
+        },
+        {
+          "type": "h",
+          "level": 4,
+          "text": "Our most popular and well-known services in Bristol and the surrounding areas are:"
+        },
+        {
+          "type": "li",
+          "text": "Award Winning Landscape Design"
+        },
+        {
+          "type": "li",
+          "text": "Local Home Extension Builders"
+        },
+        {
+          "type": "li",
+          "text": "Luxurious Bathroom Design"
+        },
+        {
+          "type": "li",
+          "text": "Michelin Star Kitchen Design"
+        },
+        {
+          "type": "h",
+          "level": 4,
+          "text": "With years of experience, local knowledge and expertise from all trades, we can help from planning to the end product.\n\nTaking all the stress off your shoulders, allowing you to carry on your day knowing your project is in good hands with your trusted local Landscaping Specialists."
+        },
+        {
+          "type": "link",
+          "text": "Click here to speak with the team",
+          "href": "/contact-us"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/5a-hazelgrove-edits-30-m6L8rxzNp0UjO69Z.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/5a-hazelgrove-edits-13-m7V2kgLNz7SbDDZ0.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/5a-hazelgrove-edits-45-m7V2kgNWKjforQLD.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/5a-hazelgrove-edits-39-m7V2kgNlpPC5yjQW.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/5a-hazelgrove-edits-58-d95MroO82Gh2WO0e.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/5a-hazelgrove-edits-22-m5KPrxyOKbCOWRRQ.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back to Portfolio",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-coney-builders-in-yate-bristol": {
+      "title": "Project Coney | Timber Decking & Garden Refresh  Builders in Yate Bristol | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK - builders in Yate Bristol - transformed this garden with sleek timber decking, privacy screening, and a refreshed layout for modern outdoor living.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Coney - Wood Decking Renovation and Expansion"
+        },
+        {
+          "type": "p",
+          "text": "Project Coney was a transformation rooted in simplicity and precision. As trusted Bristol Landscapers, Scott Brothers UK was called in to replace a tired patio with something warmer, cleaner, and more inviting."
+        },
+        {
+          "type": "p",
+          "text": "The original paved area had aged poorly, uneven surfaces, overgrown borders, and a lack of cohesion between house and garden. We stripped it back and introduced a timber decking system laid in parallel planks, creating a sleek, modern finish that visually expands the space."
+        },
+        {
+          "type": "p",
+          "text": "To enhance privacy and soften the perimeter, we installed a vertical timber screen that adds texture without blocking light. The decking was extended to create a larger footprint, offering more usable space for seating, entertaining, or simply enjoying the outdoors."
+        },
+        {
+          "type": "p",
+          "text": "We also refreshed the raised border around the existing tree with new timber cladding, turning it into a feature rather than an afterthought. The layout now flows naturally from the house’s French doors out into the garden, with clean lines and warm tones that complement the property’s exterior."
+        },
+        {
+          "type": "p",
+          "text": "This project reflects our approach to outdoor renovations: clarity of layout, quality materials, and a finish that feels both functional and refined. Whether it’s a full garden build or a targeted upgrade, Scott Brothers UK delivers results that last."
+        },
+        {
+          "type": "p",
+          "text": "For homeowners seeking experienced Bristol Landscapers,, Project Coney is proof that even modest spaces can be transformed into something special, with craftsmanship, care, and a clear design vision."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Before"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-m6LJLxDRr2ijPWEp.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-m2WQW5la0PfVNveA.jpg"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "After"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-YX4b4wzBG6HrM2y6.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-YleyekyL0qTeZyVe.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-mePnPknKlVIKqDpk.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-AVLbL0bXqgcJXNNE.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back To Projects",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-cherry-build-it-yate": {
+      "title": "Project Cherry - Install Timber Fence  Build It Yate | Scott Brothers Yate Builders",
+      "description": "Revamp your outdoor space with a sturdy timber fence from Build It Yate. Our Project Cherry enhances privacy and garden aesthetics with durable, vertical timber cladding.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Cherry - Modernising Privacy with Timber Fence Installation"
+        },
+        {
+          "type": "p",
+          "text": "Project Cherry was all about reclaiming outdoor space and redefining boundaries. As part of our commitment to quality builds under the Scott Brothers UK team, who took a tired, cluttered garden and gave it structure, privacy, and a fresh sense of purpose."
+        },
+        {
+          "type": "p",
+          "text": "The original fence, made of pre-formed concrete panels and weathered timber posts, had aged poorly, offering little visual appeal or wind resistance. We stripped it back and replaced it with a tall, timber-clad fence using vertical slats for a clean, contemporary look. The new timber posts were installed with precision to ensure long-term stability and alignment across the entire boundary."
+        },
+        {
+          "type": "p",
+          "text": "The transformation didn’t stop at the fence. We redefined the garden layout, clearing excess gravel and uneven surfaces to create a more open, usable space. The existing cherry tree was preserved as a focal point, now framed by the warm tones of the timber fencing and a freshly trimmed lawn."
+        },
+        {
+          "type": "p",
+          "text": "This project reflects our approach to outdoor upgrades: thoughtful design, durable materials, and a finish that complements both home and garden. The new fencing not only enhances privacy but also adds a natural texture that blends seamlessly with the landscape."
+        },
+        {
+          "type": "p",
+          "text": "For homeowners looking to build with confidence, Scott Brothers UK delivers tailored solutions that combine aesthetics with function. Project Cherry is a clear example of how a simple boundary upgrade can completely transform the feel of a garden."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Before"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-south-west-england-ALpopLKVZJsXkMnq.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-bristol-south-west-england-YKbrbvz7w8ibJw9K.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-bristol-south-west-england-m5KbKDovvJHG7o2Z.jpg"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "After"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-Awvkv105VJUovKQV.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-A0xVxgL1a0hlnkvp.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-bristol-south-west-england-mv070Qq2QZcRrg1N.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mv070yMpqosg10lR.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back To Projects",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-jubilee-builders-yate-bristol": {
+      "title": "Project Jubilee - Refined Garden Makeover  Builders Yate Bristol   | Scott Brothers Yate Builders",
+      "description": "A harmonious fusion of lush roll-out turf and elegant light-toned stone paving, enhancing outdoor living spaces with Builders Yate Bristol's Jubilee Project.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Jubilee - Landscapers Bristol Deliver a Refined Garden Makeover with Stonework & Turf"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-32-dJol5xM625F4wkgQ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-34-mp8MqBZWejILgNz7.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-33_1-mv0L2MOJElhZ7v4w.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-33-m5KPLOq8XouL9K3d.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Project Jubilee is a showcase of balance, precision, and outdoor elegance. As trusted Landscapers Bristol homeowners rely on, Scott Brothers UK was commissioned to transform this residential garden into a clean, contemporary space that blends structure with softness."
+        },
+        {
+          "type": "p",
+          "text": "We began by reworking the entire layout, introducing a light-toned stone paving system laid in an irregular pattern for visual interest and timeless appeal. The paving flows seamlessly from the back of the house, creating a spacious patio ideal for entertaining, relaxing, or simply enjoying the view."
+        },
+        {
+          "type": "p",
+          "text": "To complement the hardscape, we installed premium roll-out turf, lush, vibrant, and perfectly edged with a curved brick border. This soft green expanse adds contrast and warmth, making the garden feel both expansive and inviting."
+        },
+        {
+          "type": "p",
+          "text": "Privacy and definition were enhanced with a tall, neatly trimmed hedge and a woven trellis fence, adding texture and enclosure without compromising light or openness. Every detail, from the paving cuts to the transitions between zones, was executed with precision to ensure long-term durability and aesthetic harmony."
+        },
+        {
+          "type": "p",
+          "text": "The result is a garden that feels refined yet relaxed. It’s a space that works for everyday living and special occasions alike, offering low-maintenance beauty and functional flow."
+        },
+        {
+          "type": "p",
+          "text": "For homeowners seeking an experienced landscaper in Bristol, Scott Brothers UK delivers bespoke outdoor solutions that elevate property value and lifestyle. Project Jubilee is just one example of how thoughtful design and expert workmanship can completely reimagine a garden."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-30_1-Yan7qeXX9BSxl7q6.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-28-m7V25za33OIbpGRK.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-29_1-YX42a0RwbJCrgLZv.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-30-mk3lqNbBjJTx7Lz6.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-28_1-AVLP1OMvr7ipw8Vz.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-22-26-dJol5xR1eXHKjyDv.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back to Portfolio",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-st-davids-avenue-yate-roofing": {
+      "title": "Project St David's Avenue | Expert Renovation & Yate Roofing | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK transformed St David’s Avenue with expert Yate roofing, stylish interiors, custom decking, fencing, and elegant landscaped finishes.      ",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project St David's Avenue | Expert Renovation & Garden Room"
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers UK, we take pride in transforming ordinary spaces into beautiful, functional, and long-lasting structures. Our recent project at St David’s Avenue is a perfect example of our attention to detail."
+        },
+        {
+          "type": "p",
+          "text": "The client approached us with an open garden area and a vision for a modern, practical outdoor space. Before our work began, the area was an unused patch of land with minimal structure and purpose. Our team handled the complete design and construction process from groundwork and roofing to interior finishing, turning the site into a sleek, fully functional garden room."
+        },
+        {
+          "type": "p",
+          "text": "The new structure features a durable design to withstand the UK climate while maintaining a clean and modern aesthetic. We used premium materials and precision installation techniques to ensure long-term performance and weather resistance."
+        },
+        {
+          "type": "p",
+          "text": "Inside, the transformation includes clean plastered walls, modern flooring, and bright natural light through large windows. The exterior finish complements the property beautifully, creating a seamless connection between the garden and the new space. Additional features such as decking, fencing, and pathway stones add the perfect finishing touches to the overall landscape design."
+        },
+        {
+          "type": "p",
+          "text": "This project reflects our commitment to delivering quality construction solutions in the Bristol area. Whether it’s a full renovation, garden office, or custom outdoor build, Scott Brothers UK combines skilled workmanship with a passion for perfection."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Before"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YX4b4GEePgt1xQKj.jpg"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "After"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-Aq2o2zg8DqTb03yq.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-ALpopDgx7pFQPLeR.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-AGB4B7Q3JRSwnLR8.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YX4b4GglXrhrZ5Xy.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-AR0b0ng97ru4Jwnz.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-AR0b0nOqKEi78nM4.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-AQEpEGPqzQFbyne2.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back To Projects",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-chestnut-yate-council": {
+      "title": "Project Chestnut - Yate Council  Flagstone Patio | Scott Brothers Yate Builders",
+      "description": "Yate Council project transforms an uneven, patchy lawn into a charming natural flagstone patio. Polished and modern, with easy flow from home to garden.    ",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Chestnut - Transformed with a Natural Flagstone Patio"
+        },
+        {
+          "type": "p",
+          "text": "Project Chestnut was all about reshaping a garden for better flow and usability. Scott Brothers UK tackled this tired backyard with a focus on texture, contrast, and lasting appeal."
+        },
+        {
+          "type": "p",
+          "text": "The original lawn and walkway were uneven, prone to wear, and overgrown along the edges. Our goal was to replace the patchy grass with something more durable and functional, so we introduced a flagstone patio with warm earth tones, natural variations, and a subtle pattern that brings character without overwhelming the space."
+        },
+        {
+          "type": "p",
+          "text": "The stones were carefully selected and laid to create a smooth transition from the house to the rest of the garden. Each piece adds depth and contrast underfoot, turning the patio into a practical extension of the home’s living area."
+        },
+        {
+          "type": "p",
+          "text": "To achieve a clean separation between the patio and the surrounding lawn, we integrated a simple brick edge, ensuring both stability and a polished look. This design allowed for easy maintenance, keeping the soft and hard landscaping in clear balance."
+        },
+        {
+          "type": "p",
+          "text": "Additional touches included raising the planting bed for definition and re-trimming the perimeter hedges to tidy up the view. The overall effect is a garden that feels immediately organised and welcoming."
+        },
+        {
+          "type": "p",
+          "text": "This project reflects our straightforward approach to garden design: favouring natural elements, functional layouts, and workmanship that stands the test of time. At Scott Brothers UK, we see every yard as a unique opportunity to create a space that works."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Before"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mk393nrkKlhkNbZ2.jpg"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "After"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YbN9NMRODzuzvOG4.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mxB7B1PRxDFEBK6l.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/after-7-AVLbL0M67ju8VRl8.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mxB7B1PBEWcQL6gJ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-AQEpEvOb90UnEWLB.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mv070yOnMXsRbvEW.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YZ9b90qxx8CKpRVZ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-Yg292knxM7cO3Wlb.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back To Projects",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-dawg-gardening-firms-yate": {
+      "title": "Project DAWG | Bespoke Animal Kennel  Gardening Firms Yate | Scott Brothers Yate Builders",
+      "description": "Gardening firms Yate, it was a pleasure for Scott Brothers UK to provide the sustainable build for this animal shelter and run, featuring timber cladding and steel mesh enclosures.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project DAWG - Gardening Firms - From Overgrowth to Purpose-Built Animal Shelter"
+        },
+        {
+          "type": "p",
+          "text": "Project DAWG was more than a cleanup, it was a complete reinvention. As one of the leading gardening firms trusts for functional outdoor builds, Scott Brothers UK took an overgrown, debris-filled plot and transformed it into a secure, purpose-built animal shelter."
+        },
+        {
+          "type": "p",
+          "text": "The original site was cluttered with broken concrete, unmanaged hedges, and scattered materials. We began by clearing the land and laying a fresh gravel base, designed for proper drainage and long-term durability. This created a clean foundation for the bespoke kennel structure."
+        },
+        {
+          "type": "p",
+          "text": "The shelter itself features vertical timber cladding for a warm, natural aesthetic that blends into the landscape. We installed green steel mesh fencing to ensure visibility, airflow, and security, ideal for both the animals and the staff. A steel gate provides controlled access, while the layout allows for easy movement and maintenance."
+        },
+        {
+          "type": "p",
+          "text": "Surrounding vegetation was trimmed and reshaped to frame the facility without compromising space or safety. The result is a tidy, organised environment that feels welcoming and practical."
+        },
+        {
+          "type": "p",
+          "text": "This project reflects our commitment to thoughtful landscaping and purposeful design. Whether it’s a residential garden or a specialist facility, Scott Brothers UK delivers tailored solutions that combine form, function, and long-term value."
+        },
+        {
+          "type": "p",
+          "text": "For organisations and homeowners seeking reliable gardening firms, Project DAWG is a clear example of how strategic landscaping can support real-world needs, with workmanship, care, and clarity."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Before"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-dOq4q6JB2yilK2o8.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-englnd-mnl9lyovrgUBrDxd.jpg"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "After"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-Yyv7vQpexrHBpVxW.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YbN9NMV7V4Iakeyg.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mjE9EkVx4nUl85nJ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-m7VKVg0133HaXoG7.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-AE040XK4lzH1ZBxw.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back To Projects",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-kingsway-roofers-yate": {
+      "title": "Project Kingsway | Expert Roofers Yate | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK’s  roofers Yate transformed Project Kingsway with modern fencing, stylish paving, durable roofing, and a fresh, elegant exterior design.   ",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Kingsway - Quality Renovation and Landscaping by Experts"
+        },
+        {
+          "type": "p",
+          "text": "We continue to deliver exceptional home improvement solutions across Bristol and the surrounding areas. Our latest Project Kingsway showcases our team’s expertise in roofing, renovation, and exterior design."
+        },
+        {
+          "type": "p",
+          "text": "The client’s property initially featured an outdated and cluttered front garden with minimal curb appeal. Our goal was to completely transform the space into a modern, low-maintenance, and visually striking exterior that complements the home’s overall look."
+        },
+        {
+          "type": "p",
+          "text": "The transformation now features a neatly fenced front area, clean walkways, decorative stone landscaping, and a welcoming entrance that immediately elevates the property’s charm. Modern grey tones, paired with light brick accents and planters, create a balanced, elegant aesthetic that blends durability with contemporary design."
+        },
+        {
+          "type": "p",
+          "text": "From groundworks to finishing touches, this project demonstrates our commitment to quality and customer satisfaction. Whether it’s a new build, renovation, or repair, Scott Brothers UK remains the trusted name for landscaping homeowners rely on for professional, long-lasting results."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Before"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mP4Q4eEBvOHR0jBp.jpg"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "After"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-A0xVx28l35Farajk.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-AwvkvXzonys90RJ0.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-m5KbKeRwyGfrWelv.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-AR0b0nRepDc3kqDB.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-m2WQWMwbjluq98bn.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-m6LJLonKR4SjMjDn.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YNqrqZkbnLu8eVNe.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-m7VKVB6EGGhPbWWJ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YNqrqZxw06I90lXL.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YbN9Ne2Gk0urJpWQ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-A3QJQZRKExsJQxW6.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mjE9E0lbQOIonZBZ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YNqrqZ1RgrTlGNke.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-d95g5yaaWWIER3XJ.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back To Projects",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-clayton-laminate-flooring-yate": {
+      "title": "Project Clayton | Outdoor Design & Laminate Flooring Yate | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK transformed Project Clayton with luxury outdoor design, hot tub area, fencing, and expert craftsmanship like our laminate flooring Yate work.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Clayton – Outdoor Luxury landscaping"
+        },
+        {
+          "type": "p",
+          "text": "we believe in creating outdoor spaces that combine comfort, elegance, and functionality. Our recent Project Clayton is a stunning example of modern outdoor transformation, where our expert team turned a simple backyard into a private relaxation retreat."
+        },
+        {
+          "type": "p",
+          "text": "The client wanted a stylish and low-maintenance garden that offered both practicality and luxury. We began by designing a clean, contemporary layout featuring raised artificial turf areas bordered with premium wooden fencing and smooth stone paving. The symmetry and finish of the space add a professional polish while keeping the area easy to maintain year-round."
+        },
+        {
+          "type": "p",
+          "text": "To enhance the space’s functionality, our team installed a covered hot tub area, built with a sturdy pergola for weather protection and aesthetic appeal. The area around the jacuzzi was carefully finished to ensure durability, safety, and visual balance with the rest of the landscape. Decorative plants and subtle lighting touches complete the calm, resort-like atmosphere."
+        },
+        {
+          "type": "p",
+          "text": "While this project focused on the outdoor area, the same design precision we apply to projects was used here, ensuring every surface, join, and detail aligns perfectly. This consistency in quality is what makes Scott Brothers UK a trusted name for both interior and exterior home improvement solutions."
+        },
+        {
+          "type": "p",
+          "text": "Whether you’re enhancing your home’s flooring or upgrading your garden into a luxury retreat, we deliver excellence in every detail turning your vision into reality."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-with-hot-tub-in-bristol-and-south-west-england-mePnP3K8X5u4PqED.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-with-hot-tub-in-bristol-and-south-west-england-AR0b0lgnk3TrLEQY.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-with-hot-tub-in-bristol-and-south-west-england.jpg-ALpopXM2oOU66EGN.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-with-hot-tub-in-bristol-and-south-west-england-dWxbxMgOQ3ibB025.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-with-hot-tub-in-bristol-and-south-west-england-YX4b4ZeQges0KK7E.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-with-hot-tub-in-bristol-and-south-west-england-YleyeLloxVSgwQaR.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-with-hot-tub-in-bristol-and-south-west-england-AVLbLDZeexf5WkvV.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back To Projects",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-sunbeam-best-composite-front-doors-yate": {
+      "title": "Project Sunbeam - Best Composite Front Doors Yate - Circular Stone Patio | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK installs the best composite front doors Yate homeowners trust, plus circular stone patios with cobblestone borders for timeless outdoor appeal.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Sunbeam - Circular Patio Perfection – Best Composite Front Doors & Outdoor Workmanship"
+        },
+        {
+          "type": "p",
+          "text": "Turning a blank patch of soil into a statement piece, this was the vision behind the transformation captured in Project Sunbeam. At Scott Brothers UK, we don’t just install the best composite front doors have to offer, we shape entire outdoor environments to match the quality and character of the homes they serve."
+        },
+        {
+          "type": "p",
+          "text": "The original space was a bare circle of earth, bordered by paving but lacking purpose. We designed and installed a circular stone patio using a blend of natural British stone in warm buff, beige, and grey tones. Laid in a concentric pattern, the stones create a visual rhythm that draws the eye and anchors the garden."
+        },
+        {
+          "type": "p",
+          "text": "Framing the patio is a smart cobblestone border, adding definition, durability, and a touch of traditional charm. The result is a clean, symmetrical space that feels both modern and timeless."
+        },
+        {
+          "type": "p",
+          "text": "To complete the transformation, we furnished the patio with a round metal table, matching chairs, and a neutral-toned umbrella, turning the area into a functional outdoor retreat. The surrounding lawn was trimmed and reshaped, and the existing shrubs were pruned to enhance the view without overwhelming the layout."
+        },
+        {
+          "type": "p",
+          "text": "This project reflects our commitment to detail, proportion, and usability. Whether it’s a front entrance or a garden feature, Scott Brothers UK delivers and builds that elevate the everyday."
+        },
+        {
+          "type": "p",
+          "text": "For homeowners seeking the best composite front doors can offer, paired with outdoor spaces that match in quality, Project Sunbeam is a perfect example of how thoughtful design brings everything together"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Before"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mv0709WJgxUQ427l.jpg"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "After"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-Aq2o2zJMZDhLW9Gn.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-mv0709JMGViQ60K8.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-d95g5y4EZrIzNVq8.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/landscape-renovation-and-design-in-bristol-and-south-west-england-YleyezWEPkUegkJZ.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back To Projects",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-dell-yate-new-builds": {
+      "title": "Project Dell - Yate New Builds with Stone Planters & Landscaped Gardens | Scott Brothers Yate Builders",
+      "description": "Upgrade your Yate new builds garden with Scott Brothers UK, featuring dry-stack stone planters, wooden raised beds, and mature landscaping for timeless outdoor appeal.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Dell - New Builds Enhanced with Stonework and Landscape Design"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-10-YNqDPzM4M4so3VQE.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-12-ALp87j2aLXU9y6gE.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-12_1-AE0Ea37K85fpvbWP.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-13-ALp87j2rv8ukZWra.jpg"
+        },
+        {
+          "type": "p",
+          "text": "This project added a classic touch to a new garden, pairing robust dry-stack stonework with clean, linear planting beds and a crisp, green lawn. We master in new builds that blend structure and softness, and this garden is a testament to our work."
+        },
+        {
+          "type": "p",
+          "text": "The focal point is a circular stone planter with a rustic, dry-stone finish. The handcrafted wall gives the bed a timeless look that's practical for plants and pleasing to the eye. It anchors the garden and provides a natural complement to the new lawn."
+        },
+        {
+          "type": "p",
+          "text": "Edging the lawn, we built raised wooden planting beds that add depth and dimension. They create space for shrubs and perennials, pulling the colours and textures of the garden forward. The beds are carefully proportioned to ensure ease of maintenance and enduring stability."
+        },
+        {
+          "type": "p",
+          "text": "Beyond the structural elements, we kept the design intentionally straightforward to stay in harmony with nature. We laid a simple border around the planting beds, with pathways of gravel ensuring good drainage and durability. Fallen leaves add colour as the seasons change."
+        },
+        {
+          "type": "p",
+          "text": "The finished garden feels well-balanced and ageless: a place where form meets function, tailored for everyday living. It's a classic blend of hard landscaping and organic beauty, one families will enjoy for years to come."
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers UK, we take new builds from vision to reality with a focus on quality and lasting value. This garden is one more example of how thoughtful workmanship can create outdoor spaces that feel instantly at home in their surroundings."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-19_1-YX42a0Vp5VT61oBM.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-20_3-dWxnB6QKJvS12beM.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-24-mjEzqjNLBpu93Ma3.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-22_1-A85DE7z2XWUrB8X6.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-20_4-A85DE7zZQES7VOal.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-14-22-Yg27qE6LjOf8Xpqr.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back to Portfolio",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-kestral-yate-building-contractors": {
+      "title": "Project Kestral - Yate Building Contractors for Bespoke Office Interiors  | Scott Brothers Yate Builders",
+      "description": "Bespoke office interiors by Yate building contractors Scott Brothers UK - featuring modern and timber-clad designs, ergonomic layouts, and smart electrical integration for functional workspaces.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Kestral - Deliver Bespoke Office Interiors with Style and Function"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00010-YBgEy1rMX6IlDK12.jpeg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00009-m5KPrDweM3cR4l0L.jpeg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00008-d95MrPKyn6uwyN2z.jpeg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00003-AQE3Vjyvg5iZw8kN.jpeg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00001-YKbPNv62onC0Mw55.jpeg"
+        },
+        {
+          "type": "p",
+          "text": "This project was a showcase of versatility, craftsmanship, and spatial intelligence. At Scott Brothers UK, we pride ourselves on being the kind of building contractors who don’t just build, we create environments that work. This dual-office transformation is a prime example of how tailored design can elevate everyday functionality."
+        },
+        {
+          "type": "p",
+          "text": "The first workspace was designed with a clean, modern aesthetic. White walls, exposed beams, and warm wooden flooring set the tone for a productive, collaborative atmosphere. We installed ergonomic furniture and integrated smart electrical solutions to ensure the space performs as well as it looks."
+        },
+        {
+          "type": "p",
+          "text": "In contrast, the second office embraced a more rustic, timber-clad interior. Natural wood walls and compact windows create a cozy, focused environment, ideal for solo work or creative thinking. We carefully managed insulation and wiring to preserve the raw beauty of the materials while meeting modern standards."
+        },
+        {
+          "type": "p",
+          "text": "Both spaces were built from the ground up with precision and purpose. From structural framing to finish detailing, every element was chosen to reflect the client’s vision and enhance day-to-day use."
+        },
+        {
+          "type": "p",
+          "text": "This wasn’t just about aesthetics; it was about creating workspaces that support real people doing real work. Whether sleek and contemporary or warm and organic, we build with intention."
+        },
+        {
+          "type": "p",
+          "text": "If you're looking for building contractors who understand both design and delivery, Scott Brothers UK offers bespoke interior builds that combine style, practicality, and long-term value."
+        },
+        {
+          "type": "link",
+          "text": "Back to Portfolio",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-gunn-yate-builder": {
+      "title": "Project Gunn - Yate Builder - Timber Shed Construction | Scott Brothers Yate Builders",
+      "description": "Need a Yate builder for your outdoor project? Scott Brothers UK delivers custom timber sheds with concrete bases, transparent roofing, and smart utility design built to last",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Gunn - Builder for Bespoke Timber Shed with Smart Utility Design"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-33_1-dWxn09g5vJHRXo5Y.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-32_1-Aq2ZNQKwpKFML484.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-31_1-m6L8rMXG7rh07y0B.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-30_1-ALp8bLgMK0iG5Npo.jpg"
+        },
+        {
+          "type": "p",
+          "text": "Every great build starts with a solid foundation, and this project is a textbook example of how precision and planning turn a simple idea into a fully functional outdoor structure. As a trusted Landscaping Specialist, Scott Brothers UK was commissioned to design and construct a bespoke timber shed that blends utility with visual appeal."
+        },
+        {
+          "type": "p",
+          "text": "We began by preparing the site with a concrete base, ensuring long-term stability and weather resistance. From there, the structure took shape with a custom timber frame, carefully measured and assembled to fit the space perfectly. Green-painted panels were added to bring a fresh, modern edge to the design while complementing the surrounding garden."
+        },
+        {
+          "type": "p",
+          "text": "As the build progressed, we installed transparent roof panels to allow natural light into the shed, ideal for storage, workspace, or even a hobby retreat. The siding was finished with warm timber cladding, giving the shed a clean, cohesive look that feels both rustic and refined."
+        },
+        {
+          "type": "p",
+          "text": "Every detail was considered, from the gravel drainage layer to the door placement and internal wiring. The result is a shed that’s not just built to last, but built to serve, whether it’s for tools, gardening gear, or creative projects."
+        },
+        {
+          "type": "p",
+          "text": "This project reflects our commitment to craftsmanship, functionality, and tailored design. For homeowners seeking a builder who delivers more than just construction, Scott Brothers UK offers end-to-end solutions that elevate outdoor living."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-29_2-Yan7zZKr2Dio0boR.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-28_1-mP4ZN5Bpg1TexQX7.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-26-AVLPNB5Ewpfvr7pr.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-25_2-Yyvy256pQatBqErP.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-25_1-mv0LlQzpeqhLQ23b.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-57-25-mp8M7oLpqJC8k6Rx.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back to Portfolio",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-bluebell-yates-landscaping": {
+      "title": "Project Bluebell -  Yates Landscaping - Sandstone Patio & Timber Platform | Scott Brothers Yate Builders",
+      "description": "Expert Yates landscaping with sandstone patio & timber platform, revitalizing neglected gardens into functional, stylish spaces for everyday outdoor living.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Bluebell - Landscaping Revives an Overlooked Garden with Structure, Style & Seasonal Balance"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-20-03_1-AVLP1OK2wXiqB1Xv.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-20-01-mk3lqNVZOrt7yq8o.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-20-00-mk3lqNVkZ8cva3DX.jpg"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Before"
+        },
+        {
+          "type": "p",
+          "text": "This garden was once a patchwork of gravel, decking, and overgrowth, lacking flow, clarity, and purpose. At Scott Brothers UK, we approached this project with a clear goal: to reimagine the space with structure, softness, and lasting usability. As specialists in landscaping, we knew this garden had potential; it just needed the right touch."
+        },
+        {
+          "type": "p",
+          "text": "We began by removing the cluttered slate chippings and worn decking, replacing them with a clean grey sandstone patio. This instantly created a central zone for outdoor dining and relaxation, framed by a raised border of evergreen shrubs and ornamental accents."
+        },
+        {
+          "type": "p",
+          "text": "To introduce movement and balance, we added a lush green lawn with light grey stepping stones leading to a timber platform, perfect for a secondary seating area or garden feature. The platform’s sandy-toned finish contrasts beautifully with the surrounding greenery, adding warmth and texture."
+        },
+        {
+          "type": "p",
+          "text": "The existing hedge was retained and trimmed to provide privacy and enclosure, while new steps were installed to create a safer, more elegant transition from the upper deck to the garden level."
+        },
+        {
+          "type": "p",
+          "text": "We also planted a Japanese maple and low-maintenance shrubs to bring seasonal interest and colour variation throughout the year. The result is a garden that feels open, organised, and ready for everyday living."
+        },
+        {
+          "type": "p",
+          "text": "This transformation reflects our approach to landscaping: thoughtful design, quality materials, and a clear understanding of how outdoor spaces should function. Whether it’s a full redesign or a subtle refresh, Scott Brothers UK delivers gardens that feel personal, polished, and built to last."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-19-59_3-A3QBOyqVlpsaOlvl.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-19-56_1-d95M7NwwWkczDVo8.jpg"
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "After"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-19-52_1-mjEzqj3MBbsO2MXX.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-19-55-mp8MqBxgZ3hDeX08.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-19-53-YX42a06eZwfjNPG4.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-19-52_2-A1aeBV7XLoI5Q8Wv.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-19-52_4-A1aewOGv27hWG0WO.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back to Portfolio",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-gauge-landscape-gardeners-yate": {
+      "title": "Project Gauge - Landscape Gardeners Yate - Sandstone Patio & Rolawn Turf | Scott Brothers Yate Builders",
+      "description": "Experienced landscape gardeners Yate residents trust. This project features grey sandstone paving, Rolawn turf, and a planting bed for a bright, classic garden.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Gauge - Landscape Gardeners - Deliver Seamless Patio & Lawn Upgrade"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-11_1-AQE3D6w5r2FjKqDx.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-10_1-YKbPEVnQ2pfQOqB3.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-10-AR0eMpXRqPfBDyn4.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-09-AwvOD032j8H1Gnzb.jpg"
+        },
+        {
+          "type": "p",
+          "text": "This project was all about clarity of line and contrasting textures. As trusted landscape gardeners residents rely on, Scott Brothers UK took this back garden from tired to timeless."
+        },
+        {
+          "type": "p",
+          "text": "We stripped out the old patio and brought in grey sandstone paving with a bluish undertone, fresh, modern, and built to age beautifully. The layout was kept simple and linear, with clean lines leading directly from the back of the house to the newly turfed lawn. The paving was carefully cut and laid to create a seamless transition between indoor and outdoor living, especially around the new bi-fold doors."
+        },
+        {
+          "type": "p",
+          "text": "Complementing the hardscape is our favourite Rolawn Medallion Turf, laid with precision to give the garden a bold, green backdrop. It’s soft underfoot, low-maintenance, and instantly lifts the space with a vibrant finish."
+        },
+        {
+          "type": "p",
+          "text": "To soften the edges and add depth, we introduced a narrow planting bed along the patio border. This allows for seasonal colour and texture without overwhelming the clean design. The surrounding trees and foliage were preserved to maintain privacy and natural charm."
+        },
+        {
+          "type": "p",
+          "text": "The result is a classic outdoor space that feels bright, balanced, and easy to care for. It combines functionality with polished design, making it a perfect setting for everyday living and special occasions."
+        },
+        {
+          "type": "p",
+          "text": "For homeowners seeking skilled landscape gardeners, Scott Brothers UK offers tailored solutions that bring outdoor spaces back to life, with workmanship, clarity, and lasting value."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-08_6-m2W1aOxBMytqKo9b.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-08_4-YBgEeDQGM1FyZ9MZ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-08_3-YrD3qOMOP5SKp41A.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-08_2-AwvOD0N6gzI2Xaj4.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-08_1-Ylenq797arTbR8Wg.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-14-16-08-AQE3D6204pTM2ERz.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back to Portfolio",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "landscaping-and-patio-work-in-yate": {
+      "title": "Project Willow - Landscaping and Patio Work in Yate | Scott Brothers Yate Builders",
+      "description": "Project Willow - Landscaping and Patio Work in Yate, as you can see from this completed project the transformation is incredible, freshly laid patio that will withstand the english weather",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Project Willow – Landscaping Project in Yate | Scott Brothers"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2023-03-09-13-46-56-YD0rvg03Dru28jMj.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00033-AR0eVz6ERxT35EVy.jpeg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00032-mp8M7NaZONiZnxDZ.jpeg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00029-ALp8bGERwRIZ7rE6.jpeg"
+        },
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Landscaping and Patio Work"
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers, we worked on Project Willow, a garden project in Yate."
+        },
+        {
+          "type": "p",
+          "text": "The job was to remove an old patio, put in a stronger base, and lay new slabs."
+        },
+        {
+          "type": "p",
+          "text": "The new patio is neat, strong, and built to last."
+        },
+        {
+          "type": "p",
+          "text": "Our Landscape Gardeners always take care to do the job right."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Why Choose Scott Brothers for Landscaping"
+        },
+        {
+          "type": "li",
+          "text": "Local builders who know and the surrounding area"
+        },
+        {
+          "type": "li",
+          "text": "Strong base work so patios last for years"
+        },
+        {
+          "type": "li",
+          "text": "Slabs cut and laid with care and skill"
+        },
+        {
+          "type": "li",
+          "text": "A trusted team of Local builders"
+        },
+        {
+          "type": "p",
+          "text": "We give clear advice, fair prices, and work that homeowners can rely on."
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "How We Carried Out Patio Replacement In Yate"
+        },
+        {
+          "type": "h",
+          "level": 4,
+          "text": "Step 1: Removing the Old Patio"
+        },
+        {
+          "type": "p",
+          "text": "We cleared the old patio and prepared the ground for new work."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Step 2: Building a Strong Foundation"
+        },
+        {
+          "type": "p",
+          "text": "A solid base is important. We made the foundation deeper and stronger so it would not sink or crack."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Step 3: Laying the New Slabs"
+        },
+        {
+          "type": "p",
+          "text": "The new slabs were cut with care and set into place for a clean, modern look."
+        },
+        {
+          "type": "p",
+          "text": "Many homeowners also choose to add Extensions or update their Kitchenswhile improving their garden."
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Landscaping in Yate and Nearby Areas"
+        },
+        {
+          "type": "p",
+          "text": "Our team works across the South West and nearby towns. We are known for being reliable and for giving honest advice."
+        },
+        {
+          "type": "p",
+          "text": "If you need Landscape Gardeners, Scott Brothers can help with patios, paths, and full garden work."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "How much does a new patio cost?"
+        },
+        {
+          "type": "p",
+          "text": "The price depends on the size and type of slabs you choose. We always give a clear quote before starting."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Do you lay a proper base?"
+        },
+        {
+          "type": "p",
+          "text": "Yes. Every patio is built on a strong base so that it will last many years."
+        },
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Can I do garden work with other building projects?"
+        },
+        {
+          "type": "p",
+          "text": "Yes. Some customers choose to do Bathroom Installation or Extensions at the same time as landscaping."
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Speak With Scott Brothers Today"
+        },
+        {
+          "type": "p",
+          "text": "If you like the results of Project Willow, we would be happy to work with you on your garden."
+        },
+        {
+          "type": "p",
+          "text": "Contact Scott Brothers your trusted builders for landscaping, patios, extensions, kitchens, bathrooms and more."
+        },
+        {
+          "type": "p",
+          "text": "Contact Us Today"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "FAQs – Landscaping Company FAQ"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00034-d95Mr6RbaPFvZQo1.jpeg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/image00038-A0x3rbBxq1T6eLWO.jpeg"
+        },
+        {
+          "type": "link",
+          "text": "Back to Portfolio",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-paddock-yates-builders": {
+      "title": "Project Paddock - Yates Builders - Garden Office, IRO Decking & Kandla Sandstone  | Scott Brothers Yate Builders",
+      "description": "Transform your outdoor space with Yates builders. This full garden project features Dolphin IRO decking, Kandla Grey Sandstone, Rolawn turf, and a bespoke garden office for modern living.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Paddock - Full Garden Design with IRO Decking & Bespoke Office"
+        },
+        {
+          "type": "p",
+          "text": "A garden to be proud of, this was one of our first full design-and-build projects, and it set the tone for everything that followed. As experienced landscapers, we were thrilled to deliver a space that blends premium materials with practical features, all tailored to modern outdoor living."
+        },
+        {
+          "type": "p",
+          "text": "The layout began with the stunning ‘Dolphin’ IRO decking, chosen for its rich tone, textured finish, and long-lasting performance. It creates a warm, inviting platform that anchors the entire garden design. Paired with Kandla Grey Sandstone, the contrast is striking, natural, elegant, and timeless."
+        },
+        {
+          "type": "p",
+          "text": "To soften the hardscape and add that lush, vibrant feel, we finished the space with our favourite Rolawn Medallion Turf. Its dense, green texture brings instant life to the garden and offers a low-maintenance solution for families who want beauty without the upkeep."
+        },
+        {
+          "type": "p",
+          "text": "But the true centrepiece? A bespoke garden office, designed and built to elevate the work-from-home experience. With clean lines, natural light, and full insulation, it’s a space that makes long days more productive and far more enjoyable. Whether used for business, creativity, or quiet retreat, it adds real value to the property and lifestyle."
+        },
+        {
+          "type": "p",
+          "text": "This project reflects what we do best: combining smart design with quality materials to create outdoor spaces that feel personal, functional, and built to last."
+        },
+        {
+          "type": "p",
+          "text": "For homeowners seeking reliable builders, our team delivers full-service garden transformations, from decking and paving to turfing and custom structures."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m2WWerj2ZwFEXeZl.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/Paddock-Gardens-corner-aspect-no-planter-YKbbMNbeBGIbqXBD.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/ALVESTON-m2WWer6xlGhD0veg.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/Untitled_Lounger-Aspect-mxBBN8axEEs0GgVp.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/Untitled_Corner-aspect-dOqq1N22LrUoMl92.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/Untitled_Birdseye-View-"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AVLL5N9vXJIv5Q0b.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A855LrNvnLfPDj77.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m6LLOrk3LLhvK28P.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqq1NxoJPtRo9KP.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AQEEaV1wabfk3oKW.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mv00zlepeeHZg6Zy.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YZ99zX5KeQi2kGy9.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m2WWerjJq0SyqXXR.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Yyvv62np5Ds6B97N.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/ALVESTON-AoPPxNkOOni432lk.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/ALVESTON-mePP2GNJkrTkLBOv.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/ALVESTON-A855Lr3Ov0tRJ1V3.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A3QQ1rNLoNHEGEQQ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/ALVESTON-dOqq1N2kKxSWRy2K.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/ALVESTON-m2WWer6elLTxa7Gw.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/ALVESTON-AwvvqPGzqaSOOJ5L.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/ALVESTON-YX447zN6PrFpOVpv.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/ALVESTON-m6LLOr56xRuBX7yj.jpg"
+        },
+        {
+          "type": "link",
+          "text": "Back To Projects",
+          "href": "/our-portfolio-of-home-transformations-in-bristol"
+        },
+        {
+          "type": "link",
+          "text": "Contact us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "project-tandy-gardeners-yate-uk": {
+      "title": "Project Tandy - Gardeners Yate Uk Sunken Deck | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK, gardeners Yate UK creating layered, multi-feature gardens with Mint Fossil slabs, sunken decking, raised planters, Rolawn Medallion Turf, and Polar White stone.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Tandy - Gardeners UK Sunken Deck"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YrDDGVoZZbhz5n5n.JPG"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mnllKVybGBsbk8NG.JPG"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-d955nBaZMBf7G66p.jpg"
+        },
+        {
+          "type": "p",
+          "text": "This garden had a little bit of everything, and that’s exactly what made it so special. As experienced gardeners homeowners trust, us to bring together a mix of textures, levels, and finishes to create a space that’s both functional and full of character."
+        },
+        {
+          "type": "p",
+          "text": "The journey begins with stunning Mint Fossil Riven slabs, laid to form a clean and elegant pathway that guides you through the garden. Their natural tones and textured surface add instant warmth and sophistication to the layout."
+        },
+        {
+          "type": "p",
+          "text": "That path leads to a beautifully crafted sunken deck, designed for relaxation, dining, or simply enjoying the outdoors. The lowered level adds depth and interest, creating a cosy zone that feels tucked away yet fully connected to the rest of the garden."
+        },
+        {
+          "type": "p",
+          "text": "To add structure and planting potential, we built a long raised planter along one edge. This feature gives the clients space to introduce colour and texture with shrubs, perennials, or seasonal blooms. It’s a simple addition that brings life and movement to the design."
+        },
+        {
+          "type": "p",
+          "text": "The finishing touches included a fresh layer of Rolawn Medallion Turf, our go-to choice for premium lawns—and Polar White decorative stone to highlight borders and add contrast. The result is a garden that feels layered, inviting, and ready for everyday enjoyment."
+        },
+        {
+          "type": "p",
+          "text": "We love creating gardens that reflect the client’s lifestyle and vision at Scott Brothers UK. As trusted gardeners, we combine smart design with quality materials to deliver outdoor spaces that truly stand out."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Y4LLXMZP5euJGMlJ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Y4LLXMZPv7hl5pXk.jpg"
+        }
+      ]
+    },
+    "project-brookfield-builders-yate": {
+      "title": "Project Brookfield - Builders Yate,  Mint Fossil Sandstone & Luxigraze Garden Design | Scott Brothers Yate Builders",
+      "description": "Looking for builders Yate homeowners trust? This garden features Mint Fossil Sandstone, a Pergola, raised planters, fencing, and Luxigraze Artificial Grass for a stunning, low-maintenance finish",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Brookfield - Garden Makeover with Mint Fossil Sandstone & Luxigraze Turf"
+        },
+        {
+          "type": "p",
+          "text": "Back by popular demand, Mint Fossil Sandstone takes centre stage in this sun-soaked garden transformation. With a mix of hard landscaping and soft finishes, this project showcases the kind of detail and balance our team brings to every build. As experienced builders residents rely on, we were excited to deliver a space that’s both stylish and practical."
+        },
+        {
+          "type": "p",
+          "text": "The sandstone paving was chosen for its natural texture and warm tones, creating a timeless foundation that instantly elevates the garden. It leads seamlessly to a modern sunken Pergola, perfect for shaded seating, outdoor dining, or simply relaxing with a book."
+        },
+        {
+          "type": "p",
+          "text": "To frame the space, we installed new fencing that adds privacy and structure without overpowering the design. Along one edge, a custom L-shaped raised planter bed was built to give the clients room to add colour and texture with shrubs, herbs, and seasonal plants."
+        },
+        {
+          "type": "p",
+          "text": "The final flourish? Luxigraze Artificial Grass. This premium turf offers a lush, green finish with zero maintenance, ideal for families who want the look of a perfect lawn without the upkeep. It ties the whole garden together, softening the hardscape and adding year-round vibrancy."
+        },
+        {
+          "type": "p",
+          "text": "This garden now feels complete: layered, functional, and ready for everyday living. Whether it’s entertaining guests or enjoying quiet moments outdoors, the layout supports it all."
+        },
+        {
+          "type": "p",
+          "text": "With a reputation for thoughtful design and quality workmanship, Scott Brothers UK continues to stand out among builders delivering bespoke outdoor spaces that reflect each client’s vision."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m7VVX09qyaF4jerB.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AR00gKWlj0FJ3Jqx.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YyvvKV4EeXTeGZ0W.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mk33KVG2g0cv8zJB.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A855X09qWNh3vEDz.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YyvvKV4qpkszJwXD.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-ALppgrW0rwHzga1W.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AVLLgKQW3NCNeW9a.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Aq22KVbZ8DTNqvBX.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-d955nV9WMEHgw990.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AoPPKVbnn2S3w383.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YyvvKV4qqnfNnNEq.jpg"
+        }
+      ]
+    },
+    "project-rock-lawn-care-services-yate": {
+      "title": "Project Rock - Lawn Care Services Yate  Patios & Stepping Stones | Scott Brothers Yate Builders",
+      "description": "Professional lawn care services Yate offering turf installation, patio design, stepping stone pathways, and garden wall refreshes for a clean, modern outdoor finish",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Rock - Two Patios & Stepping Stones"
+        },
+        {
+          "type": "p",
+          "text": "Sometimes, the simplest designs make the biggest impact. This garden was fully stripped back to give us a blank canvas, and what followed was a clean, modern transformation that ticks all the boxes. As providers of trusted lawn care services families rely on, we were excited to deliver a space that’s both practical and visually refined."
+        },
+        {
+          "type": "p",
+          "text": "The layout features two newly installed patios, perfectly positioned to create distinct zones for relaxing and entertaining. Connecting them is a path of stepping stones, adding movement and structure without overwhelming the space. The materials were chosen for durability and style, offering a timeless finish that complements any garden setup."
+        },
+        {
+          "type": "p",
+          "text": "To soften the hardscape and bring in that lush, green feel, we laid fresh Rolawn Medallion Turf. Known for its premium quality and rich colour, this turf instantly elevated the garden’s look while keeping maintenance low. It’s a smart choice for homeowners who want a flawless lawn without the hassle."
+        },
+        {
+          "type": "p",
+          "text": "We also gave the surrounding walled areas a fresh coat of paint, just enough to brighten the space and tie everything together. The result is a garden that feels open, balanced, and ready for everyday use."
+        },
+        {
+          "type": "p",
+          "text": "This project is a great example of how thoughtful planning and quality materials can turn a tired outdoor space into something special. Whether it’s patios, turf, or full garden redesigns, we bring clarity and workmanship to every job."
+        },
+        {
+          "type": "p",
+          "text": "For those seeking reliable lawn care services, Scott Brothers UK offers tailored solutions that blend simplicity with lasting style."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-d955nVaMv7u4z2Xa.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YleeKVrnjBhVN5qN.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YD00XKNav2UB4zRM.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-d955nVaWB1IoyvVQ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YleeKVrDO5ieqLLO.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A3QQVkMB7vckB98L.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AE00gK6O85fornZk.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YZ99gKrM9Ehae2El.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AzGGKVZEKjcnvnjb.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mnllKVrzD9FxBxZG.jpg"
+        }
+      ]
+    },
+    "project-coriander-house-builders-in-yate": {
+      "title": "Project Coriander - House Builders In Yate Raised Decking & Outdoor Living | Scott Brothers Yate Builders",
+      "description": "Looking for house builders in Yate? This raised decking project proves how smart design and cost-effective materials can transform your garden into a stylish, functional space.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Coriander - Large Raised Decking for Stylish Outdoor Living"
+        },
+        {
+          "type": "p",
+          "text": "That’s one BIG deck, and it’s exactly what the client wanted. As trusted house builders, we were asked to create a large, raised entertaining space that felt modern, functional, and budget-friendly. The solution? A custom decking installation that delivered on every front."
+        },
+        {
+          "type": "p",
+          "text": "The client’s brief was clear: a spacious area for hosting guests, relaxing outdoors, and enjoying the garden without breaking the bank. We recommended decking as the ideal option due to its lower material cost, faster installation time, and long-term durability."
+        },
+        {
+          "type": "p",
+          "text": "This wasn’t just about size; it was about style. The raised design added dimension to the garden, creating a natural focal point that feels elevated in every sense. To complete the look, we added a decorative surround that frames the deck beautifully and gives it a clean, contemporary finish."
+        },
+        {
+          "type": "p",
+          "text": "The materials were chosen for both performance and aesthetics. With a range of tones and textures available, we tailored the finish to suit the client’s taste and the existing garden layout. The result is a space that feels cohesive, inviting, and ready for year-round use."
+        },
+        {
+          "type": "p",
+          "text": "Whether it’s for dining, entertaining, or simply enjoying a quiet moment outdoors, this deck now serves as a versatile extension of the home."
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers UK, we combine smart design with practical solutions. As experienced house builders, we help homeowners make the most of their outdoor spaces, without compromising on quality or style"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AMqqgopNyOUkXXJE.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AMqqgopRKeFlk7KN.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AQEEonVbxnu9G0rZ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mP44rKNV0jUVDN73.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A855X0rxL3fL58vy.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dJoogKNyEWH1PwrP.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YrDDGVX7wrukqJwW.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YNqqgKNRjqSQz4WM.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Yg22KV5zN0h2kW02.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Aq22KVNEg3TWy69K.jpg"
+        }
+      ]
+    },
+    "project-olympus-new-homes-yate": {
+      "title": "Project Olympus | New Homes Yate Renovation & Landscaping | Scott Brothers Yate Builders",
+      "description": "Transforming new homes Yate with expert renovations and landscaping, modern bathrooms, split-level lawns, decking, fencing, and decorative slate finishes in Yate .",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project: Olympus - Full Property Transformations"
+        },
+        {
+          "type": "p",
+          "text": "we take pride in helping homeowners turn their properties into personalised, functional spaces. One of our most rewarding ongoing projects has been with a returning client in Yate, an ideal example of our commitment to enhancing new homes with thoughtful design and expert craftsmanship."
+        },
+        {
+          "type": "p",
+          "text": "Over the past two years, we’ve worked closely with this wonderful family to transform their house into a true home. We began with a complete renovation of the old family bathroom, stripping everything back and rebuilding it into a sleek, modern walk-in shower room. The result was a space that’s both stylish and highly practical for everyday use."
+        },
+        {
+          "type": "p",
+          "text": "Next, we tackled the rear garden in two stages. The first involved a Full Property Transformation, a cohesive, low-maintenance landscape that complements the home’s overall aesthetic."
+        },
+        {
+          "type": "p",
+          "text": "This project reflects our passion for improving new homes with custom solutions that blend beauty and function. Whether it’s interior renovations, garden landscaping, or full property upgrades, Scott Brothers UK delivers results that stand the test of time."
+        },
+        {
+          "type": "p",
+          "text": "Watch this space, there’s more to come in 2021 as we continue this exciting journey with our valued clients."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mjEy9xzJqacpKX8k.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AGB94VqEJXIWwWOK.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YlejyNQ8NBSoklR5.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mxBQ752l14H7M7pe.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Yyvn75D0gVf7a1Qr.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AzG9704E1ZHkPWlQ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mnle9E4VJwi3VyWl.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AwvZk587lWIyXlg5.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YKbprvjOkQhG3Wng.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Yg2b9Xv2wMUVDpQ7.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mP49Q512NNtGvK8J.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mjEy9xwpbkurb1MV.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqx4Enq1NiPk3EK.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqx4EnnnJcDwvP6.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AoPlGQKE19H1qnlO.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mnle9EKDeNhKRbDd.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YD094gbn9gcVggOa.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YZ95bNzva0TpXPPz.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A3QNJ8LXOvtDe91V.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mk3j9x1OqlHqV40l.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqx4EJjpruZZ6xR.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqx4EJBDlh3EDGV.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Y4LKJ2jo6nHajJwP.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mnle9Eo6nbF7RGO4.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YKbprvXK7oUvxgG4.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YBgV41KDypfN9Gen.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m7VLKZ09EZcpz7LX.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AMqG4wo0roSpowOy.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqx4ELjeOh2wMEV.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AoPlGQOJ95I4l1P8.jpg"
+        }
+      ]
+    },
+    "project-alexandra-yate-garden-designers": {
+      "title": "Project Alexandra - Yate Garden Designers - Decking, Marble Pebbles & Rolawn Turf | Scott Brothers Yate Builders",
+      "description": "We are Scott Brothers UK - Yate garden designers creating clean, modern spaces for clients like Alexandra, with new decking, white marble pebbles, and premium Rolawn Medallion Turf for simple, stunning outdoor living.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Alexandra - Decking, Marble Pebbles & Rolawn Turf"
+        },
+        {
+          "type": "p",
+          "text": "Some garden projects don’t need complexity to make a statement - this one proves that simplicity, when done right, can be incredibly effective. As a trusted garden designer, we were asked to create a clean, modern outdoor space that felt fresh, functional, and easy to maintain."
+        },
+        {
+          "type": "p",
+          "text": "We began with new decking to define the main area, sleek, durable, and perfect for year-round use. The lines were kept sharp and minimal, allowing the materials to speak for themselves. It’s a surface that works equally well for morning coffee or evening entertaining."
+        },
+        {
+          "type": "p",
+          "text": "To add contrast and texture, we introduced white marble pebbles along the borders. These eye-catching stones not only framed the space beautifully but also added a crisp, contemporary edge that elevated the overall design. Their reflective quality brings light and movement into the garden, especially on sunny days."
+        },
+        {
+          "type": "p",
+          "text": "The final touch was a fresh layer of Rolawn Medallion Turf. Known for its rich colour and premium finish, this turf instantly softened the layout and added a lush, inviting feel. It’s a practical choice for families, offering durability without compromising on appearance."
+        },
+        {
+          "type": "p",
+          "text": "This garden now feels balanced and purposeful, each element working together to create a space that’s both stylish and usable. It’s proof that thoughtful design doesn’t need to be complicated to deliver impact."
+        },
+        {
+          "type": "p",
+          "text": "We approach every project with clarity and care at Scott Brothers UK . As experienced garden designers, we focus on clean layouts, quality materials, and results that reflect your lifestyle."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mP44r8P5eKsv9KrN.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AzGGKxj03aH7LRED.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqqgPlEb5Iyk4wV.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YannKv6ZQMHyL7zR.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AQEEo28jZLsvWkny.jpg"
+        }
+      ]
+    },
+    "project-kites-gardening-services-in-yate": {
+      "title": "Project Kites - Gardening Services In Yate - Mint Fossil Patio & Rolawn Turf Experts | Scott Brothers Yate Builders",
+      "description": "We are Scott Brothers UK - providing gardening services in Yate, and surrounding areas with elegant patio installations using Mint Fossil Sandstone and premium Rolawn Medallion Turf for timeless outdoor living.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Kites -Elegant Patio & Turf Installation with Natural Finishes"
+        },
+        {
+          "type": "p",
+          "text": "There’s something timeless about a well-laid patio paired with a rich green lawn and this project captured that balance beautifully. Designed for a family who wanted both elegance and ease, this garden makeover showcases the kind of detail-driven work we love to deliver through our gardening services."
+        },
+        {
+          "type": "p",
+          "text": "We began by clearing the space and preparing the ground for a full patio installation. The material of choice: Mint Fossil Riven Sandstone. Its natural variation and soft, earthy tones brought warmth and texture to the layout, creating a surface that feels both refined and welcoming."
+        },
+        {
+          "type": "p",
+          "text": "To complement the stonework, we installed Rolawn Medallion Turf, renowned for its lush appearance and resilience. The fresh lawn added a vibrant contrast to the sandstone, instantly softening the space and making it feel more expansive. It’s the kind of finish that invites you to kick off your shoes and enjoy the outdoors."
+        },
+        {
+          "type": "p",
+          "text": "This wasn’t just about looks—it was about creating a space that works for real life. The layout allows for easy movement, defined zones for seating and play, and minimal maintenance throughout the seasons."
+        },
+        {
+          "type": "p",
+          "text": "Every outdoor project we take on is shaped by your vision and our expertise, every project to the client’s lifestyle and vision. Whether it’s a full redesign or a focused upgrade, our gardening services are built around quality materials, thoughtful design, and lasting results."
+        },
+        {
+          "type": "p",
+          "text": "If your garden needs a refresh that blends beauty with practicality, we’re ready to help you bring it to life."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m2WWXxv6zyI7MQor.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YZ99g6J4rDS40vj5.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-ALppg1alx0UOznk7.jpg"
+        }
+      ]
+    },
+    "project-beard-yate-garden-maintenance": {
+      "title": "Project Beard - Yate Garden Maintenance | Scott Brothers Yate Builders",
+      "description": "Expert Yate garden maintenance by Scott Brothers UK, transforming new build gardens with porcelain tiles, slate borders, and greenery for stylish low-upkeep living.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project: Beard - Garden Maintenance"
+        },
+        {
+          "type": "p",
+          "text": "we understand that modern homeowners want outdoor spaces that are both beautiful and easy to maintain. One of our recent projects in Yate exemplifies our expertise in garden maintenance, where thoughtful design meets practical landscaping."
+        },
+        {
+          "type": "p",
+          "text": "Following a recommendation, our clients approached us with a vision to transform their typical new build garden into a relaxing, low-maintenance space ideal for entertaining guests. The goal was to create a stylish outdoor area that required minimal upkeep while still offering visual appeal and comfort."
+        },
+        {
+          "type": "p",
+          "text": "We began by installing premium Juniper Grey Porcelain tiles, chosen for their sleek finish and long-lasting durability. These tiles provide a clean, modern look and are incredibly easy to maintain, making them perfect for busy families and social gatherings. To frame the patio area, we added a natural slate border, which adds contrast and a touch of elegance to the overall design."
+        },
+        {
+          "type": "p",
+          "text": "While the focus was on low maintenance, we preserved an element of greenery by retaining a well-kept lawn area. This balance between hardscape and softscape ensures the garden remains inviting and fresh without demanding constant care."
+        },
+        {
+          "type": "p",
+          "text": "This project highlights our commitment to delivering tailored garden maintenance solutions that suit each client’s lifestyle. Whether it’s replacing decking, installing artificial grass, or designing patios with premium materials, we create outdoor spaces that are functional, attractive, and easy to manage."
+        },
+        {
+          "type": "p",
+          "text": "Scott Brothers UK offers expert garden maintenance and landscaping services across the south west If you're looking to upgrade your garden with minimal fuss and maximum impact, contact us today to explore your options."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/porcelainlandscapecwmbranbefore-A3QNJ4nzpqSrZOG1.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YNqEroZK5qFaV4gW.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/during-Ylejy0Z0Dni9k4xr.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AQE1pjGvLoUzpVWZ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AwvZk5EL1vuz4xew.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AR09bB5W94HkWjRM.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Y4LKJ2o0owTn7bRE.jpg"
+        }
+      ]
+    },
+    "project-glen-homes-in-yate": {
+      "title": "Project Glen | Homes in Yate  Garden Design with Mint Fossil Slabs & Artificial Grass | Scott Brothers Yate Builders",
+      "description": "We are Scott Brothers UK, transforming gardens for homes in Yate,  and nearby areas with Mint Fossil slabs, artificial grass, and modern features for stylish, low-maintenance family living.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Glen - Modern Garden Features for Stylish Family Living"
+        },
+        {
+          "type": "p",
+          "text": "Wow, this was one of those projects that truly brought a space to life. At Scott Brothers UK, we love working on outdoor areas that complement and elevate local homes, and this one was no exception."
+        },
+        {
+          "type": "p",
+          "text": "Our client wanted a garden that felt modern, functional, and family-friendly. We started by selecting premium materials that would deliver both style and durability. The standout feature? Smooth Mint Fossil sawn & honed slabs. Their soft tones and refined texture created a sleek patio area that instantly added elegance to the space."
+        },
+        {
+          "type": "p",
+          "text": "To balance the hardscape, we introduced natural wood elements and lush artificial grass. The contrast between stone, timber, and greenery gave the garden a layered, contemporary feel, perfect for relaxing, entertaining, or letting the kids play freely. It’s a layout that feels open yet intimate, structured yet organic."
+        },
+        {
+          "type": "p",
+          "text": "We also planted a selection of shrubs that, once mature, will add depth and softness to the overall design. These green accents will frame the space beautifully, offering seasonal interest and a sense of privacy without overwhelming the clean lines of the layout."
+        },
+        {
+          "type": "p",
+          "text": "This garden now feels like a true extension of the home, an outdoor room that’s low maintenance, visually stunning, and ready for everyday use. Whether it’s morning coffee, weekend barbecues, or quiet evenings under the stars, this space is built to support modern family life."
+        },
+        {
+          "type": "p",
+          "text": "We are proud to lead garden transformations for homes with thoughtful design, quality materials, and expert craftsmanship. If your outdoor space needs a refresh, we’re here to help make it happen."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mk33KB109lT10g3v.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AzGGKJWkO5uoD29Z.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YbNN0PlegLiMvg5E.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AGBBgDPoX4uLQrVN.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Y4LLXjB3nzF5qjrE.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AR00gjOn3DC7D8re.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YBggXQW5M3Cklq66.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-ALppg1ZDLws9lwWn.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m7VVX7xgOnfM0oGe.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mjEEK1ekRRiLEEbN.jpg"
+        }
+      ]
+    },
+    "project-kelbra-yate-builders": {
+      "title": "Project Kelbra - Yate Builders - Bespoke Garden Storage & Outbuildings | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK, Yate builders creating custom garden storage and outbuildings with premium materials, tailored finishes, and expert craftsmanship that flat-pack can’t match.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Kelbra - Bespoke Storage & Outbuildings That Fit Your Space"
+        },
+        {
+          "type": "p",
+          "text": "When it comes to outdoor storage and garden buildings, flat-pack just doesn’t cut it. At Scott Brothers UK, we design and build bespoke outbuildings that are tailored to your space, your needs, and your style. As experienced builders, we know how to deliver functional structures with a finish that feels premium and personal."
+        },
+        {
+          "type": "p",
+          "text": "This recent project is a perfect example. The client needed a multi-purpose outbuilding that could serve as storage, workspace, and a garden feature. We started by assessing the layout and selecting materials that would complement the existing landscape while offering long-term durability."
+        },
+        {
+          "type": "p",
+          "text": "From timber cladding to composite panels, we offer a huge variety of finishes. Whether you want something rustic, modern, or low-maintenance, we’ll help you choose the right combination. In this case, we used a mix of natural wood and sleek detailing to create a structure that feels both practical and stylish."
+        },
+        {
+          "type": "p",
+          "text": "Inside, the space was fully customised with shelving, lighting, and insulation, ready for year-round use. Outside, we added defined borders and a clean foundation to ensure stability and visual appeal."
+        },
+        {
+          "type": "p",
+          "text": "This isn’t just storage, it’s a smart investment in your property. Our bespoke builds are designed to last, with craftsmanship that far exceeds anything off the shelf."
+        },
+        {
+          "type": "p",
+          "text": "Scott Brothers UK brings precision and creativity to every project. As trusted builders, we create outbuildings that work hard and look great, whether you need a garden office, tool shed, or multi-use space."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AR00gDyyoPs04E15.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YX44gByynqUZ4N65.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AQEEo2yDQPTvrvWV.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Yg22KJWqyOiE063r.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YrDDGMlqanS5BRQJ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-d955nBKKBzUNNDjp.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mjEEKXvqv0INvQVB.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AoPPK8vvKViwvpgy.jpg"
+        }
+      ]
+    },
+    "project-bourne-garden-maintenance-companies-yate": {
+      "title": "Project Bourne - Garden Maintenance Companies Yate  Composite Decking Experts | Scott Brothers Yate Builders",
+      "description": "Trusted by homeowners across the region, garden maintenance companies Yate like ours deliver sustainable composite decking, expert installation, and low-maintenance solutions built to last.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Bourne - Sustainable Composite Decking Done Right"
+        },
+        {
+          "type": "p",
+          "text": "Composite everything, and we mean it. At Scott Brothers UK, we’re passionate about building outdoor spaces that look incredible and last for years. As one of the leading garden maintenance companies homeowners trust, we take pride in using sustainable materials that deliver on both performance and aesthetics."
+        },
+        {
+          "type": "p",
+          "text": "This project was a perfect example of how a composite can elevate a garden. From the decking boards to the structural frame, we used high-quality composite materials throughout. Why? Unlike many contractors, we believe composite decking should only ever be installed on a composite frame. It’s the only way to ensure long-term stability, durability, and a flawless finish."
+        },
+        {
+          "type": "p",
+          "text": "The benefits speak for themselves. Composite is more expensive upfront, but the payoff is huge: low maintenance, no warping, no rot, and a colour range that stays vibrant year after year. It’s a future-proof choice for families who want style without the stress."
+        },
+        {
+          "type": "p",
+          "text": "We love our job, but we love it even more when we get to work with materials that support sustainability. Composite is the future of garden design, and we’re excited to be part of that shift."
+        },
+        {
+          "type": "p",
+          "text": "This installation was clean, modern, and built to last. The finish was smooth, the colour contrast was striking, and the layout was tailored to the client’s lifestyle. Whether it’s for entertaining, relaxing, or simply enjoying the outdoors, this space now delivers on every front."
+        },
+        {
+          "type": "p",
+          "text": "Scott Brothers UK continues to lead the way among garden maintenance companies, offering expert advice, premium materials, and workmanship that goes beyond the basics"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YrDDGMVNvpCPj2lZ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AR00gDDNaahBKwxE.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dJoogwwLr1F2Zq9n.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dWxxg112bjfzOJbg.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AE00gNNnrlFyvM29.jpg"
+        }
+      ]
+    },
+    "project-fennel-gardening-maintenance-yate": {
+      "title": "Project Fennel | Gardening Maintenance Yate Low Maintenance Garden Solutions | Scott Brothers Yate Builders",
+      "description": "Expert gardening maintenance Yate by Scott Brothers UK - creating durable, low-maintenance outdoor spaces with precision leveling, smart design, and lasting finishes.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project: Fennel - Gardening Maintenance"
+        },
+        {
+          "type": "p",
+          "text": "We believe that every garden deserves a thoughtful finish, especially when it follows a major home extension. Our recent project in Yate is a perfect example of how expert gardening maintenance services can complete a property transformation with style and practicality."
+        },
+        {
+          "type": "p",
+          "text": "This job marked the final phase of a multi-stage renovation for a returning client. After their extension was completed, they wanted a low-maintenance outdoor space that would serve their family for years to come. We began by removing a significant amount of material to achieve the perfect ground levels, an essential step for long-term stability and usability."
+        },
+        {
+          "type": "p",
+          "text": "Once the groundwork was complete, we designed and installed a clean, functional layout that blends seamlessly with the new extension. The result is a beautiful, low-maintenance garden that offers both relaxation and durability. Every detail was considered, from drainage and surface finishes to the choice of materials that require minimal upkeep."
+        },
+        {
+          "type": "p",
+          "text": "This project highlights our commitment to delivering tailored gardening maintenance solutions that meet the unique needs of each client. Whether you're finishing a new build, upgrading an existing garden, or simply looking for a more manageable outdoor space, our team ensures every element is built to last."
+        },
+        {
+          "type": "p",
+          "text": "Scott Brothers UK offers comprehensive gardening maintenance across the south west."
+        },
+        {
+          "type": "p",
+          "text": "From soil preparation and levelling to planting, paving, and decorative finishes, we handle every aspect with precision and care. If you're planning a garden upgrade or need expert help to complete your home transformation, we’re here to help."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A3QnJ8wNRlTr28V2.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AwvQk5MDNoUBD104.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dJo74O6w8lH49nZ9.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-d95egP94o7frEOyk.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AR0ZbBW3MeclxwwG.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AoP0GQbJ6WIa87jo.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YrDPNQbJZGF5Eynw.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-ALpVoLWeL6uX7xRV.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-ALpVoLWeyMTXGV8B.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Y4LyJ2qJv2Flxyyk.jpg"
+        }
+      ]
+    },
+    "project-rae-walled-garden-maintenance-yate": {
+      "title": "Project Rae | Walled Garden Maintenance Yate | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK - experts in walled garden maintenance Yate, creating low-maintenance, child-friendly spaces with artificial grass and utility paving.     ",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Rae - Practical, Play-Friendly Garden Upgrade"
+        },
+        {
+          "type": "p",
+          "text": "Not every garden project needs to be grand to be meaningful. This one was a joy to work on, a compact, walled garden in Yate that needed a little love and a lot of practicality. The brief was simple: make it low maintenance, child-friendly, and usable all year round. As specialists in walled garden maintenance, we knew exactly how to deliver."
+        },
+        {
+          "type": "p",
+          "text": "We started by clearing the space and prepping the ground for artificial grass. The chosen turf was soft underfoot, durable, and perfect for little ones to run around on without the mud or mowing. It instantly lifted the space, giving it a fresh, clean look that’s easy to care for."
+        },
+        {
+          "type": "p",
+          "text": "Next came the utility pavers. These weren’t just for aesthetics; they added structure and function, creating defined zones for play, storage, and movement. The layout was designed to make the most of every inch, turning a previously underused garden into a practical extension of the home."
+        },
+        {
+          "type": "p",
+          "text": "What made this job special wasn’t the scale; it was the purpose. It’s now a safe, tidy, and welcoming space where kids can play, parents can relax, and maintenance is minimal. That’s the kind of transformation we love to be part of."
+        },
+        {
+          "type": "p",
+          "text": "We handle Landscaping with a focus on usability, durability, and smart design. Whether it’s artificial grass, paving, or full garden reworks, we tailor every job to suit the lifestyle of the people who live there."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A3QQVLrEkpFlLvqM.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mePPKDG3oJuoo9xB.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AR00gj9g9rcpR28R.jpg"
+        }
+      ]
+    },
+    "project-bowden-house-builders-in-yate": {
+      "title": "Project Bowden | House Builders In Yate | Scott Brothers Yate Builders",
+      "description": "Trusted house builders in Yate - Scott Brothers UK delivers compact garden upgrades with South Cerney stone, shed installations, and low-maintenance finishes.\n",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project: Bowden - House Builders"
+        },
+        {
+          "type": "p",
+          "text": "We don’t just handle large-scale builds; we’re proud to take on smaller, impactful jobs that make a real difference. As trusted house builders, we understand that even compact outdoor spaces deserve thoughtful design and professional execution."
+        },
+        {
+          "type": "p",
+          "text": "This recent project was a great example of how a modest garden upgrade can deliver big results. Our client wanted to reclaim an overgrown area and turn it into something clean, functional, and low-maintenance. We began with a full rip-out of the dense vegetation, clearing the space to reveal its true potential."
+        },
+        {
+          "type": "p",
+          "text": "Once the site was prepped, we filled and levelled the area using South Cerney stone, a decorative aggregate known for its light tones and excellent drainage properties. This choice added instant brightness and texture to the garden while keeping upkeep to a minimum."
+        },
+        {
+          "type": "p",
+          "text": "To complete the transformation, we installed a high-quality composite shed. Durable, weather-resistant, and visually sleek, this shed offers secure storage without compromising on style. It’s the perfect addition for homeowners who want practical solutions that blend with modern garden aesthetics."
+        },
+        {
+          "type": "p",
+          "text": "This job may have been smaller in scale, but it reflects our commitment to quality and versatility. Whether it’s a full property build or a focused garden enhancement, Scott Brothers UK brings the same level of care and craftsmanship to every project."
+        },
+        {
+          "type": "p",
+          "text": "If you're looking for reliable house builders who can handle everything from extensions and landscaping to compact garden makeovers, we’re here to help. Let’s bring your vision to life, no matter the size."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mnlN9ygZrvI1WWvW.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YKb0rwGP0osZ4Wo7.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YanW9DEO58UNBNXM.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mk379ng2awceGQen.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mk379nvQKqCxxVOa.jpg"
+        }
+      ]
+    },
+    "project-henson-yate-garden-design": {
+      "title": "Project Henson - Yate Garden Design  Driveway & Landscape Solutions | Scott Brothers Yate Builders",
+      "description": "Expert Yate garden design by Scott Brothers UK, transforming sloped gardens into durable driveways with retaining walls, tarmac finishes, and smart landscaping",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project: Henson - Garden Design"
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers UK, we take pride in turning challenging outdoor spaces into practical, visually appealing landscapes. One of our recent projects in Yate involved transforming a steeply sloped front garden into a durable off-street parking area. This job was a perfect example of our expertise in garden design, where functionality meets aesthetic value."
+        },
+        {
+          "type": "p",
+          "text": "Our client needed a solution that would provide safe, accessible parking while enhancing the curb appeal of their home. To achieve this, we began by removing the existing garden structure and importing tonnes of aggregate to build up the levels. This groundwork was essential to create a stable base for the new driveway."
+        },
+        {
+          "type": "p",
+          "text": "We constructed a robust sleeper retaining wall to hold the raised garden in place, adding both structural integrity and rustic charm. The final surface was finished with a layer of high-quality tarmac, resulting in a smooth, weather-resistant driveway that blends seamlessly with the property’s exterior."
+        },
+        {
+          "type": "p",
+          "text": "This project showcases how thoughtful garden design can solve real-world problems while adding long-term value to a home. Whether you're dealing with uneven terrain, limited parking, or simply want to upgrade your outdoor space, our team offers tailored solutions that combine engineering precision with creative landscaping."
+        },
+        {
+          "type": "p",
+          "text": "Scott Brothers UK is your trusted partner for garden transformations in the south west. From driveways and patios to retaining walls and full garden redesigns, we deliver results that are both practical and beautiful. Contact us today to discuss your garden design needs and discover how we can bring your vision to life."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m6Lkvq7l6eTwkzK4.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YanbBOEzB7CJ9eV0.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dWxJlpMp53Ir6wxD.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mv0ejkxbZGi5G3n6.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Aq2nB1weGMUrJ1Nx.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqxbreeyytWE6Jg.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/after-A85N2Gwro2TewLld.jpg"
+        }
+      ]
+    },
+    "project-williams-garden-design-consultant-yate": {
+      "title": "Project Williams | Garden Design Consultant Yate | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK - your garden design consultant Yate for transforming corner plots with patio extensions, turf refresh, planter beds, and bespoke pergolas.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project: Williams - Garden Design Consultant"
+        },
+        {
+          "type": "p",
+          "text": "Some gardens are more than just outdoor spaces, they’re the backdrop to everyday life. That was the vision behind this large corner plot transformation in Yate, where our team at Scott Brothers UK worked closely with the homeowners to create a space that feels both personal and practical."
+        },
+        {
+          "type": "p",
+          "text": "As a trusted garden design consultant, we approached this project with a clear goal: to reshape the garden into a multi-functional retreat. The patio was extended and redefined, giving the family a generous area to relax, dine, and entertain. We refreshed the turf to bring back its lush appeal, levelling it for easy maintenance and safe play."
+        },
+        {
+          "type": "p",
+          "text": "One of the most cherished features, the deep planter bed, was preserved. It’s now a dedicated space for springtime pottering, herb planting, and quiet moments with nature. This thoughtful detail added a layer of personality to the design, keeping the garden connected to its past while embracing a new future."
+        },
+        {
+          "type": "p",
+          "text": "To complete the transformation, we installed a bespoke pergola, an elegant structure that invites evening gatherings, shaded lunches, or simply a peaceful place to unwind. It frames the garden beautifully and adds architectural interest without overwhelming the space."
+        },
+        {
+          "type": "p",
+          "text": "This project is a testament to how collaborative design and expert execution can turn a corner plot into a sanctuary. Whether you’re starting fresh or reworking an existing layout, Scott Brothers UK brings creativity, care, and workmanship to every garden."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-d95egoN7loFzV1VO.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AVLnb0OpZGFZX4JJ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YyvB7Qe4x9HNVb9E.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mv037yMbqxi5epp2.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YbN39M6gg6IZ81Xx.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mp8k9GBbjnf040kN.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YbN39M6gVEfPO7w4.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-ALpVowjWxLuaZ6Ky.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dWxPba6QKlHgQ1wW.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YKb0rwVWMpSvnKDB.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YleEyk7boXs73rKq.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-m2WgQ5O97rHQ24bB.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YZ9Pb0DQnjcVrZW5.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AVLnb0OpwLuNjjxK.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AMqr4vjDKDF6Prxo.jpg"
+        }
+      ]
+    },
+    "project-russell-yate-gardening-services": {
+      "title": "Project Russell | Yate Gardening Services  Modern Garden Makeovers | Scott Brothers Yate Builders",
+      "description": "Scott Brothers UK - Yate gardening services that revive tired gardens with Kota Blue Limestone, luxury artificial grass, and low-maintenance design built for modern living.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Russell - Modern Garden Revival with Kota Blue Limestone"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqqgOye3bTn5zlZ.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AQEEoLyByefxKq0n.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YrDDGElgNPtOo33D.jpg"
+        },
+        {
+          "type": "p",
+          "text": "When our clients reached out, their garden was tired, dated, and no longer fit for purpose. They wanted a fresh start - something modern, low maintenance, and built to last. As providers of premium gardening services, we knew exactly how to bring their vision to life."
+        },
+        {
+          "type": "p",
+          "text": "The transformation began with a full redesign focused on simplicity and style. We selected Kota Blue Limestone for the hardscape, a stunning material known for its rich tones and durability. It instantly elevated the space, giving it a clean, contemporary look that complements any home exterior."
+        },
+        {
+          "type": "p",
+          "text": "To soften the layout and add year-round greenery, we installed luxury artificial grass. This choice not only reduces upkeep but also provides a safe, comfortable surface for children, pets, and everyday use. The contrast between the limestone and lush turf created a balanced, inviting atmosphere perfect for relaxing or entertaining."
+        },
+        {
+          "type": "p",
+          "text": "Every detail was tailored to the client’s lifestyle. From the layout to the finishes, the garden now offers a seamless blend of function and aesthetics. It’s a space that looks great in every season and requires minimal effort to maintain, exactly what they asked for."
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers UK, our gardening services are designed to meet the needs of modern homeowners. Whether it’s a full garden overhaul or targeted upgrades, we deliver results that are practical, stylish, and built to last."
+        },
+        {
+          "type": "p",
+          "text": "If your outdoor space needs a refresh, we’re here to help. Let’s turn your garden into something you’ll love coming home to."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YX44gqyEGQH5XD5O.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YrDDGElg6vfkbo0z.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AwvvKNMgXPhBJrL0.jpg"
+        }
+      ]
+    },
+    "a-beautiful-extension-in-yate": {
+      "title": "Project Butler - A beautiful extension in Yate! | Scott Brothers Yate Builders",
+      "description": "Project Butler - A beautiful extension in Yate! - We have done a full refurb on this property, from the garden to the bathroom, everything has changed, View now!",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "A beautiful extension in Yate!"
+        },
+        {
+          "type": "p",
+          "text": "This is our home. Purchased in 2018, we haven't put the tools down since!"
+        },
+        {
+          "type": "p",
+          "text": "We initially installed a double dormer extension to provide a further three bedrooms and a Family bathroom."
+        },
+        {
+          "type": "p",
+          "text": "We have been working on each room and the gardens individually to create the modern, versatile family home we now have."
+        },
+        {
+          "type": "p",
+          "text": "Although the end is in sight for this project, we are not quite finished! Keep an eye on this page for updates"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Project: Butler"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dOqxM8vlEEuj7gOM.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YlejDWMM04Cke5pN.jpeg"
+        }
+      ]
+    },
+    "project-st-john-composite-front-doors-yate": {
+      "title": "Composite Front Doors Yate | Bespoke Church Door Restoration  | Scott Brothers Yate Builders",
+      "description": "Discover Project St John in Yate where Scott Brothers UK crafted a replica church door with reclaimed features. Explore our expertise in composite front doors Yate.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project: St John"
+        },
+        {
+          "type": "p",
+          "text": "When we were approached by a local church in Yate to restore their original front door, we saw it as more than just a job, it was a chance to honour heritage through craftsmanship. At Scott Brothers UK, we’re passionate about restoration and reclamation, especially when it involves preserving the character of listed buildings."
+        },
+        {
+          "type": "p",
+          "text": "Unfortunately, the existing timber door was far too rotten and worn to be saved. After a thorough assessment, it became clear that a full replacement was the only viable option. Because the building is listed, we needed to create a faithful replica that respected its architectural integrity while offering modern durability."
+        },
+        {
+          "type": "p",
+          "text": "We sourced premium Canadian White Oak to craft the new door, ensuring strength, longevity, and a beautiful grain that complements the church’s façade. Our team worked meticulously to replicate the original design, incorporating traditional joinery techniques and period-appropriate detailing. We were also able to salvage and restore some of the original door furniture, which received a deep clean and polish before being reinstalled, adding a touch of authenticity to this bespoke project."
+        },
+        {
+          "type": "p",
+          "text": "While this particular door was made from solid oak, the project reflects our broader expertise, where we combine heritage aesthetics with modern materials for long-lasting performance. Whether it’s a church, cottage, or contemporary home, we tailor each solution to the building’s character and the client’s needs."
+        },
+        {
+          "type": "p",
+          "text": "We’d love to help you find the perfect balance between tradition and innovation."
+        }
+      ]
+    },
+    "project-elmore-garden-consultation-yate": {
+      "title": "Garden Consultation Yate - Project Elmore | Scott Brothers Yate Builders",
+      "description": "Explore Project Elmore in Yate, Bristol. An inspiring home and garden transformation brought to life through expert design and a tailored garden consultation Yate.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Elmore - Book Your Garden Consultation"
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers, we take pride in transforming homes and gardens into spaces that truly reflect our clients’ vision. Project Elmore in Yate Bristol, is a shining example of our commitment to quality, creativity, and long-term client relationships."
+        },
+        {
+          "type": "p",
+          "text": "This comprehensive project brought together multiple elements under one roof. Our returning clients entrusted us once again to enhance their living environment, this time with a full-scale home update and a complete overhaul of their back garden. From initial planning to final execution, every detail was carefully considered to ensure a seamless blend of functionality and aesthetic appeal."
+        },
+        {
+          "type": "p",
+          "text": "The garden transformation was particularly rewarding. Following a tailored garden consultation in Yate, we developed a bespoke design that maximised space, improved flow, and introduced new features to elevate outdoor living. Whether it was reimagining the patio, installing raised beds, or integrating ambient lighting, our team delivered a cohesive outdoor experience that complements the newly refreshed interiors."
+        },
+        {
+          "type": "p",
+          "text": "What sets Project Elmore apart is the trust and collaboration built over time. Our clients returned to us knowing we’d honour their preferences while offering expert guidance. The result is a home that feels renewed, inside and out, a place to relax, entertain, and enjoy for years to come."
+        },
+        {
+          "type": "p",
+          "text": "If you're considering a home or garden renovation, our garden consultation service is the perfect starting point. We listen, advise, and design with your lifestyle in mind."
+        }
+      ]
+    },
+    "homes-in-yate": {
+      "title": "Project Oakes - Best Homes In Yate! | Scott Brothers Yate Builders",
+      "description": "Project Oakes - Best Homes In Yate!  - A full home makeover with this beauty of a job, check out the spec on this one! - Landscaping done with class and finesse.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 3,
+          "text": "Project: Oakes"
+        },
+        {
+          "type": "p",
+          "text": "We removed the existing subsiding conservatory to make way for a beautiful single-story extension with anthracite bi-folding doors and 'Velux' windows. We laid 'Fossil Green Sandstone' patio and 30mm artificial grass with new fencing all round and a bespoke fitted gate to finish."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mxBQz8NN0KhN3q6o.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mk3jl5G1pxhG1GWE.jpg"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Time to improve your home?"
+        }
+      ]
+    },
+    "project-worthing-yate-garages": {
+      "title": "Project:  Worthing - Yate Garages  | Scott Brothers Yate Builders",
+      "description": "Upgrade your space with bespoke Yate garages by Scott Brothers UK - durable, weatherproof builds in Yate and Worthing for storage, workshops, hobbies, and growing family needs.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project: Worthing - Building a garage"
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers UK, we specialise in designing and building high quality garages tailored to meet the evolving needs of modern families. One recent project involved replacing an outdated garage with a spacious, weatherproof structure that now serves as both a workshop and a secure storage area. Our clients needed a solution that could accommodate their growing family and diverse hobbies, and we delivered a garage that blends functionality with durability."
+        },
+        {
+          "type": "p",
+          "text": "The original building was carefully dismantled, and our team laid new solid foundations to ensure long-term structural integrity. We constructed the new garage with a pitched roof, offering valuable overhead storage while enhancing the building’s aesthetic appeal. Every detail, from the materials used to the layout, was chosen to maximise usability and withstand the unpredictable British weather."
+        },
+        {
+          "type": "p",
+          "text": "Whether you're looking to upgrade an existing garage or build a new one from scratch, our garages are designed with your lifestyle in mind. We offer bespoke solutions that include insulated walls, reinforced doors, and flexible layouts to suit everything from vehicle storage to home workshops. Our commitment to craftsmanship and customer satisfaction means every garage we build is made to last."
+        },
+        {
+          "type": "p",
+          "text": "Scott Brothers UK is proud to build premium garage construction services. We understand the importance of combining practicality with style, and our garages reflect that balance. If you're considering a garage project in Yate, contact us today to explore your options and get expert advice tailored to your property."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AGB9MQMj6wtDbn32.jpg"
+        }
+      ]
+    },
+    "project-falcon-garden-upkeep-yate": {
+      "title": "Project Falcon - Garden Upkeep Yate | Scott Brothers Yate Builders",
+      "description": "Project Falcon showcases a sleek, low-maintenance garden designed to ease garden upkeep Yate. Discover how Scott Brothers UK turned a high-effort space into a modern outdoor retreat.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project Falcon – Garden Design and Upkeep"
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers UK, we believe that outdoor spaces should be a source of relaxation and not a source of stress."
+        },
+        {
+          "type": "p",
+          "text": "For our clients, the burden of constant maintenance had turned their garden into a space they avoided rather than enjoyed. That’s why they reached out to us for a complete transformation focused on solving the challenges of garden upkeep."
+        },
+        {
+          "type": "p",
+          "text": "The brief was clear: create a modern, low-maintenance garden that would look great year-round and require minimal effort. We began with a tailored consultation to understand their lifestyle and preferences, then designed a space that blends functionality with contemporary style. Durable paving, raised beds, and carefully selected plants now form a cohesive outdoor area that’s easy to manage and perfect for entertaining or unwinding."
+        },
+        {
+          "type": "p",
+          "text": "The result is a versatile garden that feels fresh, open, and inviting without the hassle. Our clients can now enjoy sunny afternoons and peaceful evenings without worrying about overgrown borders or seasonal upkeep. It’s a space built for longevity and ease."
+        },
+        {
+          "type": "p",
+          "text": "If you’re facing similar frustrations with garden upkeep, we’re here to help. Our team specialises in designing outdoor environments that are both beautiful and practical, tailored to your needs and built to last."
+        },
+        {
+          "type": "p",
+          "text": "Let Project Falcon inspire your next step toward a garden that works for you!"
+        }
+      ]
+    },
+    "stoke-gifford-landscaping": {
+      "title": "Stoke Gifford Landscaping Project Paddock | Scott Brothers Yate Builders",
+      "description": "Stoke Gifford Landscaping Project Paddock - The brief was to build the best garden in Stoke Gifford with a home office to work from for a professional family.",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AoPPxNlL8RF783Me.jpg"
+        },
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Stoke Gifford Landscaping Project Paddock"
+        },
+        {
+          "type": "p",
+          "text": "Situated on the edge of the countryside in North Bristol, this beautiful garden has been transformed into a blissful and contemporary retreat."
+        },
+        {
+          "type": "link",
+          "text": "Contact our team here!",
+          "href": "/contact-us"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The Brief"
+        },
+        {
+          "type": "p",
+          "text": "We were approached by a wonderful couple whose children had just left home to attend university."
+        },
+        {
+          "type": "p",
+          "text": "The brief was to develop a design that would transform their garden into a sophisticated, low-maintenance space, which could also incorporate a garden office."
+        },
+        {
+          "type": "p",
+          "text": "After brainstorming with the couple, we got to work creating a practical but relaxing garden with flowing open-zoned areas for entertaining, lounging and working."
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Design the best garden in Stoke Gifford"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/14paddock-mePkvVOw3QT14eav.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/14paddock.png1-YanDyVOxv0UoVeQW.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/14paddock.png2-AGBo6KLlrjUQKlPm.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/14paddock.png3-1-dWxayKp2pviQwp5E.png"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The Design"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The Build"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The Garden"
+        },
+        {
+          "type": "p",
+          "text": "Enclosed with handmade Venetian slatted panels, the garden is now the model of a modern, cultivated outdoor space. The natural sandstone patio, laid with charcoal brick borders, flows around the garden."
+        },
+        {
+          "type": "p",
+          "text": "This brings easy access to the space while still providing contained areas, which are perfect for entertaining. The decked area is finished with the finest Japanese-style ‘Yakisugi’ treatments, which give rich tones and a gentle shimmer to the wood. We continued the flow through the garden with this stunning material, cladding the raised flower planters and integral storage area. This harmonised the features of the garden and brought the whole design together."
+        },
+        {
+          "type": "p",
+          "text": "As our first full ‘design and build’ project, this will always hold a special place in our hearts. We truly wish the clients all the happiness in the world in their fabulous new garden."
+        },
+        {
+          "type": "link",
+          "text": "Back To Design My Space",
+          "href": "/garden-consultancy-yate"
+        }
+      ]
+    },
+    "project-shepherd-garden-consultancy-yate": {
+      "title": "Project Shepherd | Garden Consultancy Yate | Modern Low Maintenance Gardens | Scott Brothers Yate Builders",
+      "description": "Expert garden consultancy Yate by Scott Brothers UK, transforming complex gardens with sandstone, artificial grass, fencing, and gravel for modern low-maintenance appeal.",
+      "blocks": [
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Project: Shepherd - Garden Consultancy"
+        },
+        {
+          "type": "p",
+          "text": "At Scott Brothers UK, we specialise in transforming challenging outdoor spaces into stylish, low-maintenance gardens that suit modern lifestyles. One of our recent projects in Yate involved a uniquely shaped garden that required expert planning and creative execution, an ideal showcase of our garden consultancy services."
+        },
+        {
+          "type": "p",
+          "text": "Our clients wanted a contemporary look with minimal upkeep. We began by replacing the worn decking with stunning Fossil Indian Sandstone, chosen for its natural tones and durability. To complement the hardscape, we installed 37mm artificial grass, offering year-round greenery without the hassle of mowing or watering. The area was framed with a treated sleeper border, adding structure and a clean, modern finish."
+        },
+        {
+          "type": "p",
+          "text": "To enhance privacy and define the space, we added partial new fencing that blended seamlessly with the existing layout. At the front of the property, we enclosed the garden with classic picket fencing and a matching gate, creating a welcoming entrance. A layer of Cotswold gravel completed the transformation, adding texture and improving drainage while maintaining a cohesive aesthetic."
+        },
+        {
+          "type": "p",
+          "text": "This project highlights how our garden consultancy team combines practical design with visual appeal. Whether you're dealing with awkward layouts, sloping terrain, or simply want a fresh look, we tailor every solution to your needs and property style."
+        },
+        {
+          "type": "p",
+          "text": "Scott Brothers UK offers expert garden consultancy across the south west."
+        },
+        {
+          "type": "p",
+          "text": "From concept to completion, we deliver outdoor spaces that are functional, beautiful, and built to last. Contact us today to explore how we can help you reimagine your garden with confidence."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/before-mePB5KrOrxHoBV5E.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YNqEOe8KJkF9rk8B.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-dJoVeDrx0PsnoKz5.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YNqEOg47gMf5aoxL.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A85N2LkKOPt52eor.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AVL935j3zDs997Ep.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A0xqeZzBL5h41v7W.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-YNqEOe3aMjTBvNR7.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-mp8P3LK40Xs1ND6y.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-AR092gREZJfZW9rW.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-Yg2bLMJ4bZiZ4Z90.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-A3QNa1DzKbUXXQ6x.jpg"
+        }
+      ]
+    },
+    "design-my-space-clayton": {
+      "title": "Design My Space - Highleaze | Scott Brothers Yate Builders",
+      "description": "Design My Space - Highleaze - A recent job completion, including adding a luxury hot tub with a premium landscape design for this client in Bristol. Read more here",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/img-7425-Awv1Xjz2kNiw64aO.jpg"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "Project Clayton"
+        },
+        {
+          "type": "h",
+          "level": 1,
+          "text": "Landscape Gardeners UK"
+        },
+        {
+          "type": "p",
+          "text": "A full ‘design and build’ project was completed recently on a new development in Filton, Bristol."
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The Brief"
+        },
+        {
+          "type": "p",
+          "text": "Our clients, a lovely family with two young children,\nhad a fairly good idea of what they were after, but wanted help to visualise the end result – although they were clear that the feature pergola with hot tub was an absolute must!"
+        },
+        {
+          "type": "p",
+          "text": "We added sleek lighting over this structure to bring stunning low-lit vibes throughout the space. A personalised chalk board and bespoke fitted goalposts were also added to keep the little ones happy."
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/photo-2022-06-21-12-56-32-3-A0xg2e8pPxFp8opV.jpg"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/7-hlr_scene-6-dOq63lK551S4NgOa.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/7-hlr_scene-13.-mv0y958VEbFB7bxG.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/7-hlr_scene-4-dWxaGerWkbFpoGOr.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/7-hlr_scene-7-m6LxoPe6xlT4wVkX.png"
+        },
+        {
+          "type": "img",
+          "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/mePB0Roo6KhE4R47/7-hlr_scene-1-YBgM5lzPMJc07xyx.png"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The Design"
+        },
+        {
+          "type": "h",
+          "level": 2,
+          "text": "The Garden"
+        },
+        {
+          "type": "p",
+          "text": "We laid the beautiful sawn and honed sandstone slabs here to give the space a contemporary feel. These slabs continue down the side access path and into the front garden, giving the whole space a clean and low-maintenance finish."
+        },
+        {
+          "type": "p",
+          "text": "The artificial grass also helps to keep this garden fun, durable and sustainable – perfect for an active, growing family."
+        },
+        {
+          "type": "link",
+          "text": "Back To Design My Space",
+          "href": "/garden-consultancy-yate"
+        }
+      ]
+    }
+  }
+}
